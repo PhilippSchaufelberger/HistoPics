@@ -25,34 +25,34 @@ fetch(geojsonUrl)
     L.geoJSON(data, {
       pointToLayer: (f, latlng) => L.marker(latlng),
       onEachFeature: (f, l) => {
-        let p = f.properties;
+        const p = f.properties;
         let popup = `<b>${p.name || 'POI'}</b>`;
         
-        // Bild (falls vorhanden)
+        // Bild
         if (p.image_url && p.image_url.trim() !== "") {
           popup += `<br><img src="${p.image_url}" width="250">`;
         }
         
-        // Aufzählungsliste vorbereiten
-        let items = [];
+        // Liste vorbereiten
+        const items = [];
         
-        // Distanz zur KFR
-        if (p.distanz_kfr && p.distanz_kfr !== "Keine Angabe") {
+        // Distanz
+        if (p.distanz_kfr && p.distanz_kfr !== "" && p.distanz_kfr !== "Keine Angabe") {
           items.push(`📏 Distanz zur KFR: ${p.distanz_kfr}`);
         }
         
-        // Link zu HistoPics / HistoSwiss (target_url)
+        // Quelle (target_url)
         if (p.target_url && p.target_url.trim() !== "") {
           items.push(`<a href="${p.target_url}" target="_blank">🔗 HistoPics / HistoSwiss</a>`);
         }
         
-        // Formular-Link aus form_id
+        // Formular (aus form_id)
         if (p.form_id && p.form_id.trim() !== "") {
-          let formUrl = "https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=" + p.form_id;
+          const formUrl = "https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=" + p.form_id;
           items.push(`<a href="${formUrl}" target="_blank">📝 Zur Formseingabe</a>`);
         }
         
-        // Wenn es Einträge gibt, als ungeordnete Liste darstellen
+        // Nur wenn items nicht leer ist, fügen wir die Liste hinzu
         if (items.length > 0) {
           popup += "<br><ul><li>" + items.join("</li><li>") + "</li></ul>";
         }
