@@ -43,9 +43,9 @@ if (p.form_id && p.form_id.trim() !== "") {
   
   // Zusätzlicher Link aus Spalte Z (Quelle)
   if (p.target_url && p.target_url.trim() !== "") {
-    popup += `<br><a href="${p.target_url}" target="_blank">🔗 Quelle (PDF/Webseite)</a>`;
+    popup += `<br><a href="${p.target_url}" target="_blank"><ul><li>Zur Quelle</li></ul></a>`;
   if (formUrl) {
-  items.push(`<a href="${formUrl}" target="_blank">📝 Zur Formseingabe</a>`);
+  items.push(`<a href="${formUrl}" target="_blank"><li>Zur Formseingabe</li></a>`);
 }
   }
   
