@@ -27,6 +27,10 @@ fetch(geojsonUrl)
     onEachFeature: (f, l) => {
   let p = f.properties;
   let popup = `<b>${p.name || 'POI'}</b>`;
+  let formUrl = "";
+if (p.form_id && p.form_id.trim() !== "") {
+  formUrl = "https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=" + p.form_id;
+}
   
   // description enthält Bild + Formular-Link (beides aus dem Export)
   if (p.description && p.description.trim() !== "") {
@@ -40,6 +44,9 @@ fetch(geojsonUrl)
   // Zusätzlicher Link aus Spalte Z (Quelle)
   if (p.target_url && p.target_url.trim() !== "") {
     popup += `<br><a href="${p.target_url}" target="_blank">🔗 Quelle (PDF/Webseite)</a>`;
+  if (formUrl) {
+  items.push(`<a href="${formUrl}" target="_blank">📝 Zur Formseingabe</a>`);
+}
   }
   
   l.bindPopup(popup);
