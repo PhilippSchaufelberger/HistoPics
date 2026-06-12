@@ -24,20 +24,20 @@ fetch(geojsonUrl)
   .then(data => {
     L.geoJSON(data, {
       pointToLayer: (f, latlng) => L.marker(latlng),
-      onEachFeature: (f, l) => {
+    onEachFeature: (f, l) => {
   let p = f.properties;
   let popup = `<b>${p.name || 'POI'}</b>`;
   
-  // Neue 'description' (Bild + Formular-Link)
+  // description enthält Bild + Formular-Link (beides aus dem Export)
   if (p.description && p.description.trim() !== "") {
     popup += `<br>${p.description}`;
   } else {
-    // Fallback für alte Daten (nur falls description fehlt)
+    // Fallback nur für den Fall, dass es kein description-Feld gibt
     if (p.distanz_kfr) popup += `<br>📏 Distanz: ${p.distanz_kfr}`;
     if (p.image_url) popup += `<br><img src="${p.image_url}" width="200">`;
   }
   
-  // Link aus Spalte Z (target_url) – wird IMMER zusätzlich angehängt, falls vorhanden
+  // Zusätzlicher Link aus Spalte Z (Quelle)
   if (p.target_url && p.target_url.trim() !== "") {
     popup += `<br><a href="${p.target_url}" target="_blank">🔗 Quelle (PDF/Webseite)</a>`;
   }
