@@ -24,33 +24,41 @@ fetch(geojsonUrl)
   .then(data => {
     L.geoJSON(data, {
       pointToLayer: (f, latlng) => L.marker(latlng),
-    onEachFeature: (f, l) => {
-  let p = f.properties;
-  let popup = `<b>${p.name || 'POI'}</b>`;
-  let formUrl = "";
-if (p.form_id && p.form_id.trim() !== "") {
-  formUrl = "https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=" + p.form_id;
-}
-  
-  // description enthält Bild + Formular-Link (beides aus dem Export)
-  if (p.description && p.description.trim() !== "") {
-    popup += `<br>${p.description}`;
-  } else {
-    // Fallback nur für den Fall, dass es kein description-Feld gibt
-    if (p.distanz_kfr) popup += `<br>📏 Distanz: ${p.distanz_kfr}`;
-    if (p.image_url) popup += `<br><img src="${p.image_url}" width="200">`;
-  }
-  
-  // Zusätzlicher Link aus Spalte Z (Quelle)
-  if (p.target_url && p.target_url.trim() !== "") {
-    popup += `<br><a href="${p.target_url}" target="_blank"><ul><li>Zur Quelle</li></ul></a>`;
-  if (formUrl) {
-  items.push(`<a href="${formUrl}" target="_blank"><li>Zur Formseingabe</li></a>`);
-}
-  }
-  
-  l.bindPopup(popup);
-}
+      onEachFeature: (f, l) => {
+        let p = f.properties;
+        let popup = `<b>${p.name || 'POI'}</b>`;
+        
+        // Bild (falls vorhanden)
+        if (p.image_url && p.image_url.trim() !== "") {
+          popup += `<br><img src="${p.image_url}" width="250">`;
+        }
+        
+        // Aufzählungsliste vorbereiten
+        let items = [];
+        
+        // Distanz zur KFR
+        if (p.distanz_kfr && p.distanz_kfr !== "Keine Angabe") {
+          items.push(`📏 Distanz zur KFR: ${p.distanz_kfr}`);
+        }
+        
+        // Link zu HistoPics / HistoSwiss (target_url)
+        if (p.target_url && p.target_url.trim() !== "") {
+          items.push(`<a href="${p.target_url}" target="_blank">🔗 HistoPics / HistoSwiss</a>`);
+        }
+        
+        // Formular-Link aus form_id
+        if (p.form_id && p.form_id.trim() !== "") {
+          let formUrl = "https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=" + p.form_id;
+          items.push(`<a href="${formUrl}" target="_blank">📝 Zur Formseingabe</a>`);
+        }
+        
+        // Wenn es Einträge gibt, als ungeordnete Liste darstellen
+        if (items.length > 0) {
+          popup += "<br><ul><li>" + items.join("</li><li>") + "</li></ul>";
+        }
+        
+        l.bindPopup(popup);
+      }
     }).eachLayer(layer => markers.addLayer(layer));
     map.addLayer(markers);
     map.fitBounds(markers.getBounds());
