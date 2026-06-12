@@ -61727,26 +61727,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.455754,
-          45.7550519
-        ]
-      },
-      "properties": {
-        "name": "Arona; 1822 - Histopics-0493",
-        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2023/10/arona-1822guida-da-milano-a-ginevra-pel-sempione-con-40-vedute-ed-una-carta-geograficatiwikimedia.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0493\">Zur Formseingabe</a>",
-        "poi": "Histopics-0493",
-        "distanz_kfr": "179,12 km",
-        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2023/10/arona-1822guida-da-milano-a-ginevra-pel-sempione-con-40-vedute-ed-una-carta-geograficatiwikimedia.jpg",
-        "target_url": "https://histopics.wordpress.com/?s=Arona%3B+1822",
-        "form_id": "Histopics-0493",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.1278248,
           46.0700105
         ]
