@@ -12,13 +12,13 @@
         ]
       },
       "properties": {
-        "name": "Zürich, Lindenhof; 1798 - Histopics-1089 von Joel 5e@HistoSwiss",
-        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2025/06/histopics-1089_joel-kaufmann.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1089\">Zur Formseingabe</a>",
-        "poi": "Histopics-1089 von Joel 5e@HistoSwiss",
+        "name": "Zürich, Lindenhof; 1917 - Histopics-1206",
+        "description": "<img src=\"https://histopics.files.wordpress.com/2023/12/zurich-lindenhof-1917ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1206\">Zur Formseingabe</a>",
+        "poi": "Histopics-1206",
         "distanz_kfr": "1,29 km",
-        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2025/06/histopics-1089_joel-kaufmann.jpeg",
-        "target_url": "https://histoswiss.wordpress.com/2025/06/08/zuerich-lindenhof-1798-und-2025-histopics-1089/",
-        "form_id": "Histopics-1089",
+        "image_url": "https://histopics.files.wordpress.com/2023/12/zurich-lindenhof-1917ch-zhricardo.jpeg",
+        "target_url": "https://histopics.wordpress.com/2023/12/10/zurich-lindenhof-1917/",
+        "form_id": "Histopics-1206",
         "order": 1
       }
     },
@@ -27,18 +27,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.525497099999999,
-          47.3120552
+          8.527222222,
+          47.30833333
         ]
       },
       "properties": {
-        "name": "Adliswil, Bahnhof; 1892 - Histopics-2561",
-        "description": "<img src=\"http://histopics.files.wordpress.com/2026/03/adliswil-bahnhof-1892-histopics-2561.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2561\">Zur Formseingabe</a>",
-        "poi": "Histopics-2561",
-        "distanz_kfr": "5,90 km",
-        "image_url": "http://histopics.files.wordpress.com/2026/03/adliswil-bahnhof-1892-histopics-2561.jpg",
-        "target_url": "https://histopics.wordpress.com/2026/03/31/adliswil-bahnhof-1892/",
-        "form_id": "Histopics-2561",
+        "name": "Adliswil; 1912 - Histopics-0273 von Jan,3c@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2024/06/processed-7f2155ff-2e22-476b-bdbc-0d556e8ab601.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0273\">Zur Formseingabe</a>",
+        "poi": "Histopics-0273 von Jan,3c@HistoSwiss",
+        "distanz_kfr": "5,85 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2024/06/processed-7f2155ff-2e22-476b-bdbc-0d556e8ab601.jpeg",
+        "target_url": "https://histoswiss.wordpress.com/2024/06/16/adliswil-1912-und-2024-histopics-0273-2/",
+        "form_id": "Histopics-0273",
         "order": 2
       }
     },
@@ -47,18 +47,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.596363,
-          47.260742
+          8.68744959,
+          47.3895115
         ]
       },
       "properties": {
-        "name": "Horgen; 1902 - Histopics-0191",
-        "description": "<img src=\"https://histoswisspics.files.wordpress.com/2023/07/horgen-1902hotel-meierhofzhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0191\">Zur Formseingabe</a>",
-        "poi": "Histopics-0191",
-        "distanz_kfr": "12,71 km",
-        "image_url": "https://histoswisspics.files.wordpress.com/2023/07/horgen-1902hotel-meierhofzhricardo.jpeg",
-        "target_url": "https://histopics.wordpress.com/2023/07/09/horgen-1902/",
-        "form_id": "Histopics-0191",
+        "name": "Volketswil; 1930 - Histopics-1051",
+        "description": "<img src=\"https://histopics.files.wordpress.com/2023/08/c8703-volketswil-1930zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1051\">Zur Formseingabe</a>",
+        "poi": "Histopics-1051",
+        "distanz_kfr": "12,33 km",
+        "image_url": "https://histopics.files.wordpress.com/2023/08/c8703-volketswil-1930zhricardo.jpeg",
+        "target_url": "https://histopics.wordpress.com/2023/11/22/volketswil-1930/",
+        "form_id": "Histopics-1051",
         "order": 3
       }
     },
@@ -67,18 +67,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5329283,
-          47.2453348
+          8.5987386,
+          47.2602168
         ]
       },
       "properties": {
-        "name": "Hausen am Albis, Postplatz; 1900 - Histopics-2704",
-        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/04/hausen-am-albis-postplatz-1900-histopics-2704.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2704\">Zur Formseingabe</a>",
-        "poi": "Histopics-2704",
-        "distanz_kfr": "13,33 km",
-        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/04/hausen-am-albis-postplatz-1900-histopics-2704.png",
-        "target_url": "https://histopics.wordpress.com/2026/04/21/hausen-am-albis-postplatz-1900/",
-        "form_id": "Histopics-2704",
+        "name": "Horgen, Dorfgasse; 1909 - Histopics-0457 von Dario 4c@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2025/01/histopics-0457_dario-canoci-1.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0457\">Zur Formseingabe</a>",
+        "poi": "Histopics-0457 von Dario 4c@HistoSwiss",
+        "distanz_kfr": "12,84 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2025/01/histopics-0457_dario-canoci-1.jpg",
+        "target_url": "https://histoswiss.wordpress.com/2025/01/25/horgen-dorfgasse-1909-und-2025-histopics-0457/",
+        "form_id": "Histopics-0457",
         "order": 4
       }
     },
@@ -87,18 +87,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6716296,
-          47.441938
+          8.5331127,
+          47.2450478
         ]
       },
       "properties": {
-        "name": "Kemptthal, Maggi; 1927 - Histopics-0956",
-        "description": "<img src=\"https://histopics.files.wordpress.com/2023/08/kemptthal-maggi-1927ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0956\">Zur Formseingabe</a>",
-        "poi": "Histopics-0956",
-        "distanz_kfr": "13,79 km",
-        "image_url": "https://histopics.files.wordpress.com/2023/08/kemptthal-maggi-1927ch-zhricardo.jpeg",
-        "target_url": "https://histopics.wordpress.com/2023/11/21/kemptthal-maggi-1927/",
-        "form_id": "Histopics-0956",
+        "name": "Hausen am Albis, Postplatz; 1900 - Histopics-2704 von Viktoria 4a@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2704_viktoria-marxfeld.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2704\">Zur Formseingabe</a>",
+        "poi": "Histopics-2704 von Viktoria 4a@HistoSwiss",
+        "distanz_kfr": "13,36 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2704_viktoria-marxfeld.jpeg",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/21/hausen-am-albis-postplatz-1900-und-2026-histopics-2704/",
+        "form_id": "Histopics-2704",
         "order": 5
       }
     },
@@ -147,18 +147,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.541707,
-          47.3729406
+          8.5428556,
+          47.3717911
         ]
       },
       "properties": {
-        "name": "Zürich, Schipfe; 1908 - Histopics-1166",
-        "description": "<img src=\"https://histopics.files.wordpress.com/2023/11/zurich-schipfe-1908ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1166\">Zur Formseingabe</a>",
-        "poi": "Histopics-1166",
+        "name": "Zürich, Limmatquai; 1864 - Histopics-2288",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2025/07/image-2.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2288\">Zur Formseingabe</a>",
+        "poi": "Histopics-2288",
         "distanz_kfr": "1,36 km",
-        "image_url": "https://histopics.files.wordpress.com/2023/11/zurich-schipfe-1908ch-zhricardo.jpeg",
-        "target_url": "https://histopics.wordpress.com/2023/11/29/zurich-schipfe-1908/",
-        "form_id": "Histopics-1166",
+        "image_url": "http://histopics.files.wordpress.com/2025/07/image-2.jpg",
+        "target_url": "https://histopics.wordpress.com/2025/07/26/zurich-limmatquai-1864/",
+        "form_id": "Histopics-2288",
         "order": 8
       }
     },
@@ -827,6 +827,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.520118,
+          47.369746
+        ]
+      },
+      "properties": {
+        "name": "Zürich, Birmensdorferstrasse 135; 1900 - Histopics-2367 von LinaS 4f@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2367_lina-stalder.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2367\">Zur Formseingabe</a>",
+        "poi": "Histopics-2367 von LinaS 4f@HistoSwiss",
+        "distanz_kfr": "0,77 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2367_lina-stalder.jpeg",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/24/zuerich-birmensdorferstrasse-135-1900-und-2026-histopics-2367/",
+        "form_id": "Histopics-2367",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.5379454,
           47.3646792
         ]
@@ -1079,6 +1099,26 @@
         "image_url": "https://histopics.wordpress.com/wp-content/uploads/2024/12/zurich-belvoirpark-1905ch-zhphilajona-park.png",
         "target_url": "https://histopics.wordpress.com/2024/12/30/zurich-belvoirpark-1905/",
         "form_id": "Histopics-1783",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5364444,
+          47.3710833
+        ]
+      },
+      "properties": {
+        "name": "Zürich, Talacker; 1855 - Histopics-0375 von Viktoria 4a@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-0375_viktoria-marxfeld.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0375\">Zur Formseingabe</a>",
+        "poi": "Histopics-0375 von Viktoria 4a@HistoSwiss",
+        "distanz_kfr": "0,93 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-0375_viktoria-marxfeld.jpeg",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/21/zuerich-talacker-1855-und-2026-histopics-0375/",
+        "form_id": "Histopics-0375",
         "order": 999999
       }
     },
@@ -1539,6 +1579,26 @@
         "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2024/02/histopics-1093-kirchestjakob-1904.jpeg",
         "target_url": "https://histoswiss.wordpress.com/2024/02/11/zuerich-kirche-st-jakob-am-stauffacher-1904-und-2024-histopics-1093/",
         "form_id": "Histopics-1093",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541066529766853,
+          47.36638050904707
+        ]
+      },
+      "properties": {
+        "name": "Zürich, Bürkliplatz; 1939 - Histopics-3146",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/image-3.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3146\">Zur Formseingabe</a>",
+        "poi": "Histopics-3146",
+        "distanz_kfr": "1,01 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/image-3.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/02/zurich-burkliplatz-1939/",
+        "form_id": "Histopics-3146",
         "order": 999999
       }
     },
@@ -2872,26 +2932,6 @@
         ]
       },
       "properties": {
-        "name": "Zürich, Lindenhof; 1917 - Histopics-1206",
-        "description": "<img src=\"https://histopics.files.wordpress.com/2023/12/zurich-lindenhof-1917ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1206\">Zur Formseingabe</a>",
-        "poi": "Histopics-1206",
-        "distanz_kfr": "1,29 km",
-        "image_url": "https://histopics.files.wordpress.com/2023/12/zurich-lindenhof-1917ch-zhricardo.jpeg",
-        "target_url": "https://histopics.wordpress.com/2023/12/10/zurich-lindenhof-1917/",
-        "form_id": "Histopics-1206",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5413182,
-          47.3721811
-        ]
-      },
-      "properties": {
         "name": "Zürich, Lindenhof; 1780 - Histopics-2036",
         "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2025/01/zurich-lindenhof-1780leu-hans-der-altere-1460-1507ch-zhe-rara17647929stadt.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2036\">Zur Formseingabe</a>",
         "poi": "Histopics-2036",
@@ -2919,6 +2959,26 @@
         "image_url": "http://histopics.files.wordpress.com/2026/04/image-31.jpg",
         "target_url": "https://histopics.wordpress.com/2026/04/19/zurich-lindenhof-1742-2/",
         "form_id": "Histopics-2684",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5413182,
+          47.3721811
+        ]
+      },
+      "properties": {
+        "name": "Zürich, Lindenhof; 1798 - Histopics-1089 von Joel 5e@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2025/06/histopics-1089_joel-kaufmann.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1089\">Zur Formseingabe</a>",
+        "poi": "Histopics-1089 von Joel 5e@HistoSwiss",
+        "distanz_kfr": "1,29 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2025/06/histopics-1089_joel-kaufmann.jpeg",
+        "target_url": "https://histoswiss.wordpress.com/2025/06/08/zuerich-lindenhof-1798-und-2025-histopics-1089/",
+        "form_id": "Histopics-1089",
         "order": 999999
       }
     },
@@ -3692,26 +3752,6 @@
         ]
       },
       "properties": {
-        "name": "Zürich, Limmatquai; 1864 - Histopics-2288",
-        "description": "<img src=\"http://histopics.files.wordpress.com/2025/07/image-2.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2288\">Zur Formseingabe</a>",
-        "poi": "Histopics-2288",
-        "distanz_kfr": "1,36 km",
-        "image_url": "http://histopics.files.wordpress.com/2025/07/image-2.jpg",
-        "target_url": "https://histopics.wordpress.com/2025/07/26/zurich-limmatquai-1864/",
-        "form_id": "Histopics-2288",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5428556,
-          47.3717911
-        ]
-      },
-      "properties": {
         "name": "Zürich, Limmatquai; 1846 - Histopics-2457",
         "description": "<img src=\"http://histopics.files.wordpress.com/2025/11/image-11.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2457\">Zur Formseingabe</a>",
         "poi": "Histopics-2457",
@@ -3739,6 +3779,26 @@
         "image_url": "https://histopics.files.wordpress.com/2023/11/zurich-schipfe-1860ruff-hofer-zurich-drucker-ruff-u.-hofer-gedr.t-verleger-1860dh-zhe-rara.png",
         "target_url": "https://histopics.wordpress.com/2023/11/22/zurich-schipfe-1860-2/",
         "form_id": "Histopics-1088",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.541707,
+          47.3729406
+        ]
+      },
+      "properties": {
+        "name": "Zürich, Schipfe; 1908 - Histopics-1166",
+        "description": "<img src=\"https://histopics.files.wordpress.com/2023/11/zurich-schipfe-1908ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1166\">Zur Formseingabe</a>",
+        "poi": "Histopics-1166",
+        "distanz_kfr": "1,36 km",
+        "image_url": "https://histopics.files.wordpress.com/2023/11/zurich-schipfe-1908ch-zhricardo.jpeg",
+        "target_url": "https://histopics.wordpress.com/2023/11/29/zurich-schipfe-1908/",
+        "form_id": "Histopics-1166",
         "order": 999999
       }
     },
@@ -6967,6 +7027,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.5230333,
+          47.3246951
+        ]
+      },
+      "properties": {
+        "name": "Adliswil, Entlisbergkopf; 1984 - Histopics-2567 von Leonhard 4a@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2567_leonhard-schneider.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2567\">Zur Formseingabe</a>",
+        "poi": "Histopics-2567 von Leonhard 4a@HistoSwiss",
+        "distanz_kfr": "4,51 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2567_leonhard-schneider.jpeg",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/21/adliswil-entlisbergkopf-1984-und-2026-histopics-2567/",
+        "form_id": "Histopics-2567",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.569988889,
           47.33725
         ]
@@ -7327,18 +7407,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.527222222,
-          47.30833333
+          8.52399,
+          47.312871
         ]
       },
       "properties": {
-        "name": "Adliswil; 1912 - Histopics-0273 von Jan,3c@HistoSwiss",
-        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2024/06/processed-7f2155ff-2e22-476b-bdbc-0d556e8ab601.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0273\">Zur Formseingabe</a>",
-        "poi": "Histopics-0273 von Jan,3c@HistoSwiss",
-        "distanz_kfr": "5,85 km",
-        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2024/06/processed-7f2155ff-2e22-476b-bdbc-0d556e8ab601.jpeg",
-        "target_url": "https://histoswiss.wordpress.com/2024/06/16/adliswil-1912-und-2024-histopics-0273-2/",
-        "form_id": "Histopics-0273",
+        "name": "Adliswil, Bahnhof; 1960 - Histopics-2563 von Philipp 4f@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2563_philipp-hug.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2563\">Zur Formseingabe</a>",
+        "poi": "Histopics-2563 von Philipp 4f@HistoSwiss",
+        "distanz_kfr": "5,82 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2563_philipp-hug.jpg",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/24/adliswil-bahnhof-1960-und-2026-histopics-2563/",
+        "form_id": "Histopics-2563",
         "order": 999999
       }
     },
@@ -7419,6 +7499,46 @@
         "image_url": "http://histopics.files.wordpress.com/2026/03/image-4.jpg",
         "target_url": "https://histopics.wordpress.com/2026/03/31/adliswil-bahnhofbrucke-1929/",
         "form_id": "Histopics-2565",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.526008,
+          47.31205
+        ]
+      },
+      "properties": {
+        "name": "Adliswil, Bahnhofbrücke; 1929 - Histopics-2565 von Philipp 4f@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2565_philipp-hug.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2565\">Zur Formseingabe</a>",
+        "poi": "Histopics-2565 von Philipp 4f@HistoSwiss",
+        "distanz_kfr": "5,90 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2565_philipp-hug.jpg",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/24/adliswil-bahnhofbruecke-1929-und-2026-histopics-2565/",
+        "form_id": "Histopics-2565",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.525497099999999,
+          47.3120552
+        ]
+      },
+      "properties": {
+        "name": "Adliswil, Bahnhof; 1892 - Histopics-2561",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/03/adliswil-bahnhof-1892-histopics-2561.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2561\">Zur Formseingabe</a>",
+        "poi": "Histopics-2561",
+        "distanz_kfr": "5,90 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/03/adliswil-bahnhof-1892-histopics-2561.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/03/31/adliswil-bahnhof-1892/",
+        "form_id": "Histopics-2561",
         "order": 999999
       }
     },
@@ -8887,26 +9007,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.68744959,
-          47.3895115
-        ]
-      },
-      "properties": {
-        "name": "Volketswil; 1930 - Histopics-1051",
-        "description": "<img src=\"https://histopics.files.wordpress.com/2023/08/c8703-volketswil-1930zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1051\">Zur Formseingabe</a>",
-        "poi": "Histopics-1051",
-        "distanz_kfr": "12,33 km",
-        "image_url": "https://histopics.files.wordpress.com/2023/08/c8703-volketswil-1930zhricardo.jpeg",
-        "target_url": "https://histopics.wordpress.com/2023/11/22/volketswil-1930/",
-        "form_id": "Histopics-1051",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.364018699999999,
           47.3792688
         ]
@@ -8999,6 +9099,26 @@
         "image_url": "https://histoswisspics.files.wordpress.com/2023/07/horgen-1901zhricardo.jpeg",
         "target_url": "https://histopics.wordpress.com/2023/07/09/horgen-1901/",
         "form_id": "Histopics-0190",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.596363,
+          47.260742
+        ]
+      },
+      "properties": {
+        "name": "Horgen; 1902 - Histopics-0191",
+        "description": "<img src=\"https://histoswisspics.files.wordpress.com/2023/07/horgen-1902hotel-meierhofzhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0191\">Zur Formseingabe</a>",
+        "poi": "Histopics-0191",
+        "distanz_kfr": "12,71 km",
+        "image_url": "https://histoswisspics.files.wordpress.com/2023/07/horgen-1902hotel-meierhofzhricardo.jpeg",
+        "target_url": "https://histopics.wordpress.com/2023/07/09/horgen-1902/",
+        "form_id": "Histopics-0191",
         "order": 999999
       }
     },
@@ -9187,26 +9307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5987386,
-          47.2602168
-        ]
-      },
-      "properties": {
-        "name": "Horgen, Dorfgasse; 1909 - Histopics-0457 von Dario 4c@HistoSwiss",
-        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2025/01/histopics-0457_dario-canoci-1.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0457\">Zur Formseingabe</a>",
-        "poi": "Histopics-0457 von Dario 4c@HistoSwiss",
-        "distanz_kfr": "12,84 km",
-        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2025/01/histopics-0457_dario-canoci-1.jpg",
-        "target_url": "https://histoswiss.wordpress.com/2025/01/25/horgen-dorfgasse-1909-und-2025-histopics-0457/",
-        "form_id": "Histopics-0457",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.598200188628349,
           47.25957618463426
         ]
@@ -9299,6 +9399,46 @@
         "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/01/histopics-0195_cami-lou-gantenbein.jpg",
         "target_url": "https://histoswiss.wordpress.com/2026/01/02/horgen-hotel-schwan-1952-histopics-0195/",
         "form_id": "Histopics-0195",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5329283,
+          47.2453348
+        ]
+      },
+      "properties": {
+        "name": "Hausen am Albis, Postplatz; 1900 - Histopics-2704",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/04/hausen-am-albis-postplatz-1900-histopics-2704.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2704\">Zur Formseingabe</a>",
+        "poi": "Histopics-2704",
+        "distanz_kfr": "13,33 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/04/hausen-am-albis-postplatz-1900-histopics-2704.png",
+        "target_url": "https://histopics.wordpress.com/2026/04/21/hausen-am-albis-postplatz-1900/",
+        "form_id": "Histopics-2704",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5331208,
+          47.2452073
+        ]
+      },
+      "properties": {
+        "name": "Hausen am Albis, Restaurant Löwen; 1900 - Histopics-2703 von Viktoria 4a@HistoSwiss",
+        "description": "<img src=\"https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2703_viktoria-marxfeld.jpeg?w=665&h=1024\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2703\">Zur Formseingabe</a>",
+        "poi": "Histopics-2703 von Viktoria 4a@HistoSwiss",
+        "distanz_kfr": "13,34 km",
+        "image_url": "https://histoswiss.wordpress.com/wp-content/uploads/2026/06/histopics-2703_viktoria-marxfeld.jpeg?w=665&h=1024",
+        "target_url": "https://histoswiss.wordpress.com/2026/06/22/hausen-am-albis-restaurant-loewen-1900-und-2026-histopics-2703/",
+        "form_id": "Histopics-2703",
         "order": 999999
       }
     },
@@ -9459,6 +9599,26 @@
         "image_url": "https://histopics.files.wordpress.com/2023/11/meilen-kirche-1924ch-zhricardoneu.jpeg",
         "target_url": "https://histopics.wordpress.com/2023/11/15/meilen-kirche-1924/",
         "form_id": "Histopics-0655",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6716296,
+          47.441938
+        ]
+      },
+      "properties": {
+        "name": "Kemptthal, Maggi; 1927 - Histopics-0956",
+        "description": "<img src=\"https://histopics.files.wordpress.com/2023/08/kemptthal-maggi-1927ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0956\">Zur Formseingabe</a>",
+        "poi": "Histopics-0956",
+        "distanz_kfr": "13,79 km",
+        "image_url": "https://histopics.files.wordpress.com/2023/08/kemptthal-maggi-1927ch-zhricardo.jpeg",
+        "target_url": "https://histopics.wordpress.com/2023/11/21/kemptthal-maggi-1927/",
+        "form_id": "Histopics-0956",
         "order": 999999
       }
     },
@@ -11939,6 +12099,26 @@
         "image_url": "http://histopics.files.wordpress.com/2026/04/baden-1856-histopics-2689.png",
         "target_url": "https://histopics.wordpress.com/2026/04/19/baden-1856/",
         "form_id": "Histopics-2689",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6610288,
+          47.526045
+        ]
+      },
+      "properties": {
+        "name": "Winterthur, Zürichstrasse; 1965 - Histopics-3082",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-40.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3082\">Zur Formseingabe</a>",
+        "poi": "Histopics-3082",
+        "distanz_kfr": "20,51 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-40.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/16/winterthur-zuerichstrasse-1965/",
+        "form_id": "Histopics-3082",
         "order": 999999
       }
     },
@@ -20527,6 +20707,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.998099793664174,
+          47.37259257376867
+        ]
+      },
+      "properties": {
+        "name": "Niedergösgen, Aarebrücke; 1928 - Histopics-3080",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-38.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3080\">Zur Formseingabe</a>",
+        "poi": "Histopics-3080",
+        "distanz_kfr": "39,90 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-38.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/15/niedergosgen-aarebrucke-1928/",
+        "form_id": "Histopics-3080",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.997204273489242,
           47.369351618780016
         ]
@@ -20599,6 +20799,26 @@
         "image_url": "https://histoswisspics.files.wordpress.com/2023/07/waggithal-stausee-1923mit-scheinberg-zindelspitz-lachenstock-ochsenkopfsz.jpeg",
         "target_url": "https://histopics.wordpress.com/2023/07/07/waggithal-stausee-1923/",
         "form_id": "Histopics-0128",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.992261699999999,
+          47.3729363
+        ]
+      },
+      "properties": {
+        "name": "Niedergösgen; 1975 - Histopics-3079",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-37.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3079\">Zur Formseingabe</a>",
+        "poi": "Histopics-3079",
+        "distanz_kfr": "40,34 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-37.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/15/niedergosgen-1975/",
+        "form_id": "Histopics-3079",
         "order": 999999
       }
     },
@@ -30893,10 +31113,10 @@
       },
       "properties": {
         "name": "Gempen; 1949 - Histopics-3100",
-        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/gempen-1949-histopics-3100.jpg\\\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3100\">Zur Formseingabe</a>",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/gempen-1949-histopics-3100.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3100\">Zur Formseingabe</a>",
         "poi": "Histopics-3100",
         "distanz_kfr": "66,51 km",
-        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/gempen-1949-histopics-3100.jpg\\",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/gempen-1949-histopics-3100.jpg",
         "target_url": "https://histopics.wordpress.com/2026/06/19/gempen-1949/",
         "form_id": "Histopics-3100",
         "order": 999999
@@ -31359,6 +31579,26 @@
         "image_url": "https://histopics.files.wordpress.com/2023/08/d794a-todi-1919blick-vom-hausstock-gegen-todi-u.-claridenstockglricardo.jpeg",
         "target_url": "https://histopics.wordpress.com/2023/11/21/todi-1919/",
         "form_id": "Histopics-1025",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.641974317183059,
+          47.482502462913885
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Im Baumgarten; 1949 - Histopics-3151",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/dornach-im-baumgarten-1949-histopics-3151.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3151\">Zur Formseingabe</a>",
+        "poi": "Histopics-3151",
+        "distanz_kfr": "67,90 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/dornach-im-baumgarten-1949-histopics-3151.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/03/dornach-im-baumgarten-1949/",
+        "form_id": "Histopics-3151",
         "order": 999999
       }
     },
@@ -32087,6 +32327,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.616792853093516,
+          47.47926778458731
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Hauptstrasse 25 (Altes Pfarrhaus); 1830 - Histopics-3164",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/dornach-hauptstrasse-25-altes-pfarrhaus-1830-histopics-3164.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3164\">Zur Formseingabe</a>",
+        "poi": "Histopics-3164",
+        "distanz_kfr": "69,70 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/dornach-hauptstrasse-25-altes-pfarrhaus-1830-histopics-3164.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/06/dornach-hauptstrasse-25-altes-pfarrhaus-1830/",
+        "form_id": "Histopics-3164",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.705111,
           47.074209
         ]
@@ -32247,6 +32507,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.611057625884987,
+          47.48916103504537
+        ]
+      },
+      "properties": {
+        "name": "Arlesheim, Bahnhof Dornach-Arlesheim; 2005 - Histopics-3155",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/arlesheim-bahnhof-dornach-arlesheim-2005-histopics-3155.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3155\">Zur Formseingabe</a>",
+        "poi": "Histopics-3155",
+        "distanz_kfr": "70,32 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/arlesheim-bahnhof-dornach-arlesheim-2005-histopics-3155.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/04/arlesheim-bahnhof-dornach-arlesheim-2005/",
+        "form_id": "Histopics-3155",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610429266894142,
+          47.488237333076526
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Kapuzinerkloster; 1968 - Histopics-3153",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/dornach-kapuzinerkloster-1968-histopics-3153.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3153\">Zur Formseingabe</a>",
+        "poi": "Histopics-3153",
+        "distanz_kfr": "70,35 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/dornach-kapuzinerkloster-1968-histopics-3153.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/03/dornach-kapuzinerkloster-1968/",
+        "form_id": "Histopics-3153",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.9574933,
           46.8041859
         ]
@@ -32287,6 +32587,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.610032294420777,
+          47.488266364723195
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Amthausstrasse (Schlachtendenkmal); 1968 - Histopics-3152",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/dornach-amthausstrasse-schlachtendenkmal-1968-histopics-3152.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3152\">Zur Formseingabe</a>",
+        "poi": "Histopics-3152",
+        "distanz_kfr": "70,38 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/dornach-amthausstrasse-schlachtendenkmal-1968-histopics-3152.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/03/dornach-amthausstrasse-schlachtendenkmal-1968/",
+        "form_id": "Histopics-3152",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.4605264,
           47.408479
         ]
@@ -32319,6 +32639,66 @@
         "image_url": "http://histopics.files.wordpress.com/2026/06/image-13.jpg",
         "target_url": "https://histopics.wordpress.com/2026/06/06/deitingen-autobahn-raststatte-deitingen-sud-isler-schale-2009/",
         "form_id": "Histopics-3029",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609134334403872,
+          47.488606581777034
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Dornachbrugg; 1840 - Histopics-3148",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/dornach-dornachbrugg-1840-histopics-3148.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3148\">Zur Formseingabe</a>",
+        "poi": "Histopics-3148",
+        "distanz_kfr": "70,45 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/dornach-dornachbrugg-1840-histopics-3148.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/02/dornach-dornachbrugg-1840/",
+        "form_id": "Histopics-3148",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60913426461364,
+          47.48864646034076
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Dornachbrugg; 1754 - Histopics-3150",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/dornach-dornachbrugg-1754-histopics-3150.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3150\">Zur Formseingabe</a>",
+        "poi": "Histopics-3150",
+        "distanz_kfr": "70,45 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/dornach-dornachbrugg-1754-histopics-3150.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/02/dornach-dornachbrugg-1754/",
+        "form_id": "Histopics-3150",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.609128936198922,
+          47.488635585146724
+        ]
+      },
+      "properties": {
+        "name": "Dornach, Dornachbrugg; 1822 - Histopics-3149",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/dornach-dornachbrugg-1822-histopics-3149.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3149\">Zur Formseingabe</a>",
+        "poi": "Histopics-3149",
+        "distanz_kfr": "70,45 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/dornach-dornachbrugg-1822-histopics-3149.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/02/dornach-dornachbrugg-1822/",
+        "form_id": "Histopics-3149",
         "order": 999999
       }
     },
@@ -32379,6 +32759,26 @@
         "image_url": "http://histopics.files.wordpress.com/2026/04/image-46.jpg",
         "target_url": "https://histopics.wordpress.com/2026/04/25/farnern-vordere-schmiedenmatt-alpwirtschaft-1953/",
         "form_id": "Histopics-2736",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60736333398468,
+          47.488361920979436
+        ]
+      },
+      "properties": {
+        "name": "Reinach, Nepomukbrücke (Hl. Nepomuk); 1968 - Histopics-3156",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/image-4.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3156\">Zur Formseingabe</a>",
+        "poi": "Histopics-3156",
+        "distanz_kfr": "70,58 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/image-4.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/04/reinach-nepomukbrucke-hl-nepomuk-1968/",
+        "form_id": "Histopics-3156",
         "order": 999999
       }
     },
@@ -36707,6 +37107,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.533910453886689,
+          47.224565390777094
+        ]
+      },
+      "properties": {
+        "name": "Rüttenen, Verenaklause (Haus des Einsiedlers, der Einsiedlerin); 1936 - Histopics-3132",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/06/image-70.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3132\">Zur Formseingabe</a>",
+        "poi": "Histopics-3132",
+        "distanz_kfr": "76,56 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/06/image-70.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/28/ruttenen-verenaklause-haus-des-einsiedlers-der-einsiedlerin-1936/",
+        "form_id": "Histopics-3132",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5389800962074816,
+          47.208396399375324
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Ecke Hauptgasse-Zeughausplatz; 1949 - Histopics-3154",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/solothurn-ecke-hauptgasse-zeughausplatz-1949-histopics-3154.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3154\">Zur Formseingabe</a>",
+        "poi": "Histopics-3154",
+        "distanz_kfr": "76,59 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/solothurn-ecke-hauptgasse-zeughausplatz-1949-histopics-3154.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/04/solothurn-ecke-hauptgasse-zeughausplatz-1949/",
+        "form_id": "Histopics-3154",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.5389905,
           47.2081499
         ]
@@ -38167,6 +38607,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.512237777329058,
+          47.477333610897695
+        ]
+      },
+      "properties": {
+        "name": "Hofstetten-Flüh, Katholische Pfarrkirche St. Nikolaus (Hofstetten); 1968 - Histopics-3128",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/06/image-66.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3128\">Zur Formseingabe</a>",
+        "poi": "Histopics-3128",
+        "distanz_kfr": "77,41 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/06/image-66.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/27/hofstetten-fluh-katholische-pfarrkirche-st-nikolaus-hofstetten-1968/",
+        "form_id": "Histopics-3128",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.530465,
           47.200827
         ]
@@ -39147,6 +39607,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.498167,
+          47.4870805
+        ]
+      },
+      "properties": {
+        "name": "Hofstetten-Flüh, Bad Flüh (ehemalig); 1797 - Histopics-3130",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/06/image-68.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3130\">Zur Formseingabe</a>",
+        "poi": "Histopics-3130",
+        "distanz_kfr": "78,63 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/06/image-68.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/28/hofstetten-fluh-bad-fluh-ehemalig-1797/",
+        "form_id": "Histopics-3130",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.498167,
+          47.4870805
+        ]
+      },
+      "properties": {
+        "name": "Hofstetten-Flüh, Bad Flüh (ehemalig); 1758 - Histopics-3131",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/06/image-69.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3131\">Zur Formseingabe</a>",
+        "poi": "Histopics-3131",
+        "distanz_kfr": "78,63 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/06/image-69.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/28/hofstetten-fluh-bad-fluh-ehemalig-1758/",
+        "form_id": "Histopics-3131",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49817889792644,
+          47.488692893882394
+        ]
+      },
+      "properties": {
+        "name": "Hofstetten-Flüh, Zollamt (Flüh); 1968 - Histopics-3129",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/06/image-67.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3129\">Zur Formseingabe</a>",
+        "poi": "Histopics-3129",
+        "distanz_kfr": "78,66 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/06/image-67.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/27/hofstetten-fluh-zollamt-fluh-1968/",
+        "form_id": "Histopics-3129",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.571522,
           47.397303
         ]
@@ -39187,6 +39707,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.526723757228146,
+          47.16301783589809
+        ]
+      },
+      "properties": {
+        "name": "Lohn-Ammannsegg, Station Lohn-Lüterkofen; 1948 - Histopics-3162",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/image-8.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3162\">Zur Formseingabe</a>",
+        "poi": "Histopics-3162",
+        "distanz_kfr": "78,81 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/image-8.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/05/lohn-ammannsegg-station-lohn-luterkofen-1948/",
+        "form_id": "Histopics-3162",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49295055121569,
+          47.47608282440395
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (Gnadenkapelle); 1905 - Histopics-3144",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/image-2-1.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3144\">Zur Formseingabe</a>",
+        "poi": "Histopics-3144",
+        "distanz_kfr": "78,82 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/image-2-1.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/01/metzerlen-mariastein-kloster-mariastein-gnadenkapelle-1905/",
+        "form_id": "Histopics-3144",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.508202,
           47.209352
         ]
@@ -39199,6 +39759,146 @@
         "image_url": "http://histopics.files.wordpress.com/2026/06/bellach-bahnhof-1956-histopics-3118.jpg",
         "target_url": "https://histopics.wordpress.com/2026/06/24/bellach-bahnhof-1956/",
         "form_id": "Histopics-3118",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.492339926070238,
+          47.47628469105841
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (von Nordosten); 1833 - Histopics-3140",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3140\">Zur Formseingabe</a>",
+        "poi": "Histopics-3140",
+        "distanz_kfr": "78,87 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/01/metzerlen-mariastein-kloster-mariastein-von-nordosten-1833/",
+        "form_id": "Histopics-3140",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.492308337573216,
+          47.47628202109932
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (vom Osten); 1754 - Histopics-3139",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-74.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3139\">Zur Formseingabe</a>",
+        "poi": "Histopics-3139",
+        "distanz_kfr": "78,88 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-74.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/30/metzerlen-mariastein-kloster-mariastein-vom-osten-1754/",
+        "form_id": "Histopics-3139",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49212179607583,
+          47.476323867219996
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (Kirche); 1921 - Histopics-3145",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image-2-2.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3145\">Zur Formseingabe</a>",
+        "poi": "Histopics-3145",
+        "distanz_kfr": "78,89 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image-2-2.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/01/metzerlen-mariastein-kloster-mariastein-kirche-1921/",
+        "form_id": "Histopics-3145",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491987079945621,
+          47.47635100540782
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (Kirche); 1968 - Histopics-3135",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-71.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3135\">Zur Formseingabe</a>",
+        "poi": "Histopics-3135",
+        "distanz_kfr": "78,90 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-71.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/29/metzerlen-mariastein-kloster-mariastein-kirche-1968/",
+        "form_id": "Histopics-3135",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4919704,
+          47.4763473
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (Kirche); 1976 - Histopics-3137",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-72.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3137\">Zur Formseingabe</a>",
+        "poi": "Histopics-3137",
+        "distanz_kfr": "78,90 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-72.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/30/metzerlen-mariastein-kloster-mariastein-kirche-1976/",
+        "form_id": "Histopics-3137",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4919602590790335,
+          47.47631383188375
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein; 1903 - Histopics-3147",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/metzerlen-mariastein-kloster-mariastein-1903-histopics-3147.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3147\">Zur Formseingabe</a>",
+        "poi": "Histopics-3147",
+        "distanz_kfr": "78,90 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/metzerlen-mariastein-kloster-mariastein-1903-histopics-3147.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/02/metzerlen-mariastein-kloster-mariastein-1903/",
+        "form_id": "Histopics-3147",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491513789842312,
+          47.476552992616206
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein; 1921 - Histopics-3141",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/metzerlen-mariastein-kloster-mariastein-1921-histopics-3141.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3141\">Zur Formseingabe</a>",
+        "poi": "Histopics-3141",
+        "distanz_kfr": "78,94 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/metzerlen-mariastein-kloster-mariastein-1921-histopics-3141.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/01/metzerlen-mariastein-kloster-mariastein-1921/",
+        "form_id": "Histopics-3141",
         "order": 999999
       }
     },
@@ -39287,6 +39987,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.49041471695934,
+          47.476514078400484
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Kloster Mariastein (Klosterplatz); 1837 - Histopics-3138",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-73.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3138\">Zur Formseingabe</a>",
+        "poi": "Histopics-3138",
+        "distanz_kfr": "79,02 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-73.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/30/metzerlen-mariastein-kloster-mariastein-klosterplatz-1837/",
+        "form_id": "Histopics-3138",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.5052999,
           47.2084856
         ]
@@ -39299,6 +40019,26 @@
         "image_url": "http://histopics.files.wordpress.com/2026/04/bellach-pulverhaus-ehemaliges-2019-histopics-2726.jpg",
         "target_url": "https://histopics.wordpress.com/2026/04/24/bellach-pulverhaus-ehemaliges-2019/",
         "form_id": "Histopics-2726",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.488855787737926,
+          47.47690540292049
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Mariastein (Hotel Kreuz); 1917 - Histopics-3143",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/image-2.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3143\">Zur Formseingabe</a>",
+        "poi": "Histopics-3143",
+        "distanz_kfr": "79,14 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/image-2.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/01/metzerlen-mariastein-mariastein-hotel-kreuz-1917/",
+        "form_id": "Histopics-3143",
         "order": 999999
       }
     },
@@ -39399,6 +40139,46 @@
         "image_url": "http://histopics.files.wordpress.com/2025/12/metzerlen-burg-rotberg-1920-histopics-2462.jpg",
         "target_url": "https://histopics.wordpress.com/2025/12/01/metzerlen-burg-rotberg-1920/",
         "form_id": "Histopics-2462",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484335493886362,
+          47.46509459687041
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Ruine Rotberg; 1840 - Histopics-3133",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/metzerlen-mariastein-ruine-rotberg-1840-histopics-3133.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3133\">Zur Formseingabe</a>",
+        "poi": "Histopics-3133",
+        "distanz_kfr": "79,29 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/metzerlen-mariastein-ruine-rotberg-1840-histopics-3133.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/29/metzerlen-mariastein-ruine-rotberg-1840/",
+        "form_id": "Histopics-3133",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4843354,
+          47.4650945
+        ]
+      },
+      "properties": {
+        "name": "Metzerlen-Mariastein, Ruine Rotberg; 1833 - Histopics-3136",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/metzerlen-mariastein-ruine-rotberg-1833-histopics-3136.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3136\">Zur Formseingabe</a>",
+        "poi": "Histopics-3136",
+        "distanz_kfr": "79,29 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/metzerlen-mariastein-ruine-rotberg-1833-histopics-3136.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/29/metzerlen-mariastein-ruine-rotberg-1833/",
+        "form_id": "Histopics-3136",
         "order": 999999
       }
     },
@@ -39627,6 +40407,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.4967,
+          47.19248
+        ]
+      },
+      "properties": {
+        "name": "Lüsslingen, Bahnhof (ehemalig); 1994 - Histopics-3142",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image-1.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3142\">Zur Formseingabe</a>",
+        "poi": "Histopics-3142",
+        "distanz_kfr": "80,11 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image-1.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/01/lusslingen-bahnhof-ehemalig-1994/",
+        "form_id": "Histopics-3142",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.591388337556713,
           46.64431734370453
         ]
@@ -39659,6 +40459,26 @@
         "image_url": "https://histopics.wordpress.com/wp-content/uploads/2025/01/rheineck-1919von-der-rheinbrucke-aus-gesehench-sge-picsdorf-fluss.jpg",
         "target_url": "https://histopics.wordpress.com/2025/01/10/rheineck-1919/",
         "form_id": "Histopics-1906",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.514109480144034,
+          47.14056129240029
+        ]
+      },
+      "properties": {
+        "name": "Kyburg-Buchegg, Blick auf Kyburg SO; 1960 - Histopics-3161",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/kyburg-buchegg-blick-auf-kyburg-so-1960-histopics-3161.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3161\">Zur Formseingabe</a>",
+        "poi": "Histopics-3161",
+        "distanz_kfr": "80,48 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/kyburg-buchegg-blick-auf-kyburg-so-1960-histopics-3161.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/05/kyburg-buchegg-blick-auf-kyburg-so-1960/",
+        "form_id": "Histopics-3161",
         "order": 999999
       }
     },
@@ -39707,6 +40527,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.510008381707206,
+          47.14127375548367
+        ]
+      },
+      "properties": {
+        "name": "Kyburg-Buchegg, Schloss Buchegg (Buechischlössli); 1840 - Histopics-3159",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image-7.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3159\">Zur Formseingabe</a>",
+        "poi": "Histopics-3159",
+        "distanz_kfr": "80,74 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image-7.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/05/kyburg-buchegg-schloss-buchegg-buechischlossli-1840/",
+        "form_id": "Histopics-3159",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.464939999999999,
           47.46586
         ]
@@ -39739,6 +40579,26 @@
         "image_url": "https://histopics.files.wordpress.com/2023/11/mariastein-1754-ca-johann-kaspar-ziegler-hg-und-david-herrliberger-neue-und-vollstaendige-topographie-der-eydgnossschaft-1754-1758ch-sounil-ch.jpeg",
         "target_url": "https://histopics.wordpress.com/2023/11/19/mariastein-1754-ca/",
         "form_id": "Histopics-0720",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5094846618781546,
+          47.14158399771289
+        ]
+      },
+      "properties": {
+        "name": "Kyburg-Buchegg, Gasthof zum Schloss Buchegg; 1930 - Histopics-3160",
+        "description": "<img src=\"http://histopics.files.wordpress.com/2026/07/kyburg-buchegg-gasthof-zum-schloss-buchegg-1930-histopics-3160.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3160\">Zur Formseingabe</a>",
+        "poi": "Histopics-3160",
+        "distanz_kfr": "80,77 km",
+        "image_url": "http://histopics.files.wordpress.com/2026/07/kyburg-buchegg-gasthof-zum-schloss-buchegg-1930-histopics-3160.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/05/kyburg-buchegg-gasthof-zum-schloss-buchegg-1930/",
+        "form_id": "Histopics-3160",
         "order": 999999
       }
     },
@@ -41427,6 +42287,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.4499244109445915,
+          47.12777300789231
+        ]
+      },
+      "properties": {
+        "name": "Gächliwil, ehemaliges Schulhaus; 1948 - Histopics-3157",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image-5.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3157\">Zur Formseingabe</a>",
+        "poi": "Histopics-3157",
+        "distanz_kfr": "85,53 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image-5.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/05/gachliwil-ehemaliges-schulhaus-1948/",
+        "form_id": "Histopics-3157",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.5308044,
           47.0080012
         ]
@@ -41739,6 +42619,26 @@
         "image_url": "http://histopics.files.wordpress.com/2026/04/messen-pfarrweg-6-pfarrhaus-und-kirche-1819-histopics-2765.jpg",
         "target_url": "https://histopics.wordpress.com/2026/04/30/messen-pfarrweg-6-pfarrhaus-und-kirche-1819/",
         "form_id": "Histopics-2765",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.429151543026793,
+          47.12392049430765
+        ]
+      },
+      "properties": {
+        "name": "Lüterswil, Grabenöliweg 1 (Ölmühle); 1956 - Histopics-3158",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image-6.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3158\">Zur Formseingabe</a>",
+        "poi": "Histopics-3158",
+        "distanz_kfr": "87,16 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image-6.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/05/luterswil-grabenoliweg-1-olmuhle-1956/",
+        "form_id": "Histopics-3158",
         "order": 999999
       }
     },
@@ -51647,6 +52547,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.160877507480832,
+          46.80584749722982
+        ]
+      },
+      "properties": {
+        "name": "Fribourg, Route des Alpes (Tilleul de Morat, Murtnerlinde); 1945 - Histopics-3163",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/07/image-9.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3163\">Zur Formseingabe</a>",
+        "poi": "Histopics-3163",
+        "distanz_kfr": "120,74 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/07/image-9.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/07/06/fribourg-route-des-alpes-tilleul-de-morat-murtnerlinde-1945/",
+        "form_id": "Histopics-3163",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.2327479,
           46.3920008
         ]
@@ -56473,10 +57393,10 @@
       },
       "properties": {
         "name": "Gruyères; 1931 - Histopics-3099",
-        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-52.jpg\\\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3099\">Zur Formseingabe</a>",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-52.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3099\">Zur Formseingabe</a>",
         "poi": "Histopics-3099",
         "distanz_kfr": "139,97 km",
-        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-52.jpg\\",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-52.jpg",
         "target_url": "https://histopics.wordpress.com/2026/06/19/gruyeeres-1931/",
         "form_id": "Histopics-3099",
         "order": 999999
@@ -63859,6 +64779,26 @@
         "image_url": "https://histopics.files.wordpress.com/2024/07/geneve-tour-de-lile-1900ch-geturm-bruckekartenplanet.jpeg",
         "target_url": "https://histopics.wordpress.com/2024/07/23/geneve-tour-de-lile-1900/",
         "form_id": "Histopics-1399",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1401327,
+          46.20767
+        ]
+      },
+      "properties": {
+        "name": "Genève, Boulevard James-Fazy; 1966 - Histopics-3081",
+        "description": "<img src=\"https://histopics.wordpress.com/wp-content/uploads/2026/06/image-39.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3081\">Zur Formseingabe</a>",
+        "poi": "Histopics-3081",
+        "distanz_kfr": "222,72 km",
+        "image_url": "https://histopics.wordpress.com/wp-content/uploads/2026/06/image-39.jpg",
+        "target_url": "https://histopics.wordpress.com/2026/06/16/geneve-boulevard-james-fazy-1966/",
+        "form_id": "Histopics-3081",
         "order": 999999
       }
     },
