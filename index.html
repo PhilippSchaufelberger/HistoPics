@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>HistoSwiss – Karte</title>
+    <title>HistoPics – Karte</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
@@ -17,7 +17,7 @@ const map = L.map('map').setView([46.8182, 8.2275], 8);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap'}).addTo(map);
 
 const markers = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius: 80 });
-const geojsonUrl = 'https://philippschaufelberger.github.io/HistoPics/histopics-neu.geojson';
+const geojsonUrl = 'https://philippschaufelberger.github.io/HistoPics/histopics_neu.geojson';
 
 fetch(geojsonUrl)
   .then(response => response.json())
