@@ -252,13 +252,13 @@
         ]
       },
       "properties": {
-        "name": "Zürich, Bahnhof Enge; 1928 - Histopics-0297",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/ea57f-zurich-enge-1928neuer-bahnhof-und-strassenbahnzhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0297\">Zur Formseingabe</a>",
-        "poi": "Histopics-0297",
+        "name": "Zürich, Bahnhof Enge; 1928 - Histopics-0232",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/ea57f-zurich-enge-1928neuer-bahnhof-und-strassenbahnzhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0232\">Zur Formseingabe</a>",
+        "poi": "Histopics-0232",
         "distanz_kfr": "0,26 km",
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/ea57f-zurich-enge-1928neuer-bahnhof-und-strassenbahnzhricardo.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/07/09/zurich-enge-1928/",
-        "form_id": "Histopics-0297",
+        "form_id": "Histopics-0232",
         "order": 999999
       }
     },
@@ -1592,13 +1592,13 @@
         ]
       },
       "properties": {
-        "name": "Zürich, Bauschänzli; 1921 - Histopics-0260",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/c8f0a-zurich-bauschanzli-1921zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0260\">Zur Formseingabe</a>",
-        "poi": "Histopics-0260",
+        "name": "Zürich, Bauschänzli; 1921 - Histopics-0257",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/c8f0a-zurich-bauschanzli-1921zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0257\">Zur Formseingabe</a>",
+        "poi": "Histopics-0257",
         "distanz_kfr": "1,14 km",
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/c8f0a-zurich-bauschanzli-1921zhricardo.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/07/21/zurich-bauschanzli-1921/",
-        "form_id": "Histopics-0260",
+        "form_id": "Histopics-0257",
         "order": 999999
       }
     },
@@ -29607,6 +29607,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.564009229512047,
+          46.779216631460834
+        ]
+      },
+      "properties": {
+        "name": "Erstfeld, Saasfirn; 1952 - Histopics-3267",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Erstfeld-Saasfirn-1952-Histopics-3267-580x408.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3267\">Zur Formseingabe</a>",
+        "poi": "Histopics-3267",
+        "distanz_kfr": "65,21 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Erstfeld-Saasfirn-1952-Histopics-3267-580x408.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/11/erstfeld-saasfirn-1952/",
+        "form_id": "Histopics-3267",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.655868,
           47.359389
         ]
@@ -47407,6 +47427,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.824734611688225,
+          46.475018768870726
+        ]
+      },
+      "properties": {
+        "name": "Rossura, Chiesa SS. Lorenzo e Agata; 1953 - Histopics-3274",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Rossura-Chiesa-SS.-Lorenzo-e-Agata-1953-Histopics-3274-402x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3274\">Zur Formseingabe</a>",
+        "poi": "Histopics-3274",
+        "distanz_kfr": "101,51 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Rossura-Chiesa-SS.-Lorenzo-e-Agata-1953-Histopics-3274-402x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/24/rossura-chiesa-ss-lorenzo-e-agata-1953/",
+        "form_id": "Histopics-3274",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.439494,
           46.6960141
         ]
@@ -48807,6 +48847,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.32279,
+          46.552841
+        ]
+      },
+      "properties": {
+        "name": "Splügen, Dorf; 1953 - Histopics-3272",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8ca1e17b1ec-580x408.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3272\">Zur Formseingabe</a>",
+        "poi": "Histopics-3272",
+        "distanz_kfr": "108,62 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8ca1e17b1ec-580x408.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/24/spluegen-dorf-1953/",
+        "form_id": "Histopics-3272",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.3233581,
           46.5528268
         ]
@@ -49539,6 +49599,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/75024-st.-petersinsel-1959hotel-mit-schiffstempelbe.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/07/07/st-petersinsel-1959/",
         "form_id": "Histopics-0109",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.901388434350627,
+          46.40012506808438
+        ]
+      },
+      "properties": {
+        "name": "Sobrio, Chiesa di San Rocco; 1953 - Histopics-3273",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Sobrio-Chiesa-di-San-Rocco-1953-Histopics-3273-580x398.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3273\">Zur Formseingabe</a>",
+        "poi": "Histopics-3273",
+        "distanz_kfr": "111,00 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Sobrio-Chiesa-di-San-Rocco-1953-Histopics-3273-580x398.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/24/sobrio-chiesa-di-san-rocco-1953/",
+        "form_id": "Histopics-3273",
         "order": 999999
       }
     },
@@ -51007,6 +51087,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.099909677746383,
+          46.91993427113509
+        ]
+      },
+      "properties": {
+        "name": "Murten, Obelisk (Schlachtdenkmal); 1831 - Histopics-3268",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Murten-Obelisk-Schlachtdenkmal-1831-Histopics-3268-580x444.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3268\">Zur Formseingabe</a>",
+        "poi": "Histopics-3268",
+        "distanz_kfr": "118,79 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Murten-Obelisk-Schlachtdenkmal-1831-Histopics-3268-580x444.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/14/murten-obelisk-schlachtdenkmal-1831/",
+        "form_id": "Histopics-3268",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.95206979,
           47.2613804
         ]
@@ -51467,6 +51567,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.163383603032998,
+          46.79758931825577
+        ]
+      },
+      "properties": {
+        "name": "Fribourg, Lac de Pérolles; 1943 - Histopics-3280",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8df674b8ea9-580x453.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3280\">Zur Formseingabe</a>",
+        "poi": "Histopics-3280",
+        "distanz_kfr": "121,06 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8df674b8ea9-580x453.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/25/fribourg-lac-de-perolles-1943/",
+        "form_id": "Histopics-3280",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.15235,
           46.806885
         ]
@@ -51559,6 +51679,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/05/image-30.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/05/11/fribourg-universite-misericorde-aula-1943/",
         "form_id": "Histopics-2852",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.122329525174685,
+          46.350919176570514
+        ]
+      },
+      "properties": {
+        "name": "Rossa, Santa Domenica; 1953 - Histopics-3271",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Rossa-Santa-Domenica-1953-Histopics-3271-408x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3271\">Zur Formseingabe</a>",
+        "poi": "Histopics-3271",
+        "distanz_kfr": "121,50 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Rossa-Santa-Domenica-1953-Histopics-3271-408x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/24/rossa-santa-domenica-1953/",
+        "form_id": "Histopics-3271",
         "order": 999999
       }
     },
@@ -52687,6 +52827,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.5809292,
+          46.4580286
+        ]
+      },
+      "properties": {
+        "name": "Bivio, Cavreccia; 1953 - Histopics-3277",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Bivio-Cavreccia-1953-Histopics-3277-580x411.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3277\">Zur Formseingabe</a>",
+        "poi": "Histopics-3277",
+        "distanz_kfr": "128,74 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Bivio-Cavreccia-1953-Histopics-3277-580x411.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/25/bivio-cavreccia-1953/",
+        "form_id": "Histopics-3277",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.8821204,
           46.2947277
         ]
@@ -53059,6 +53219,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/60f11-raron-chateau-de-la-tour-1780kupferstich-von-der-ruibne-helmann-le-barbiervs.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/07/07/raron-chateau-de-la-tour-1780/",
         "form_id": "Histopics-0085",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.71990532,
+          46.52544089626563
+        ]
+      },
+      "properties": {
+        "name": "Bever, Piz Bever; 1952 - Histopics-3281",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Bever-Piz-Bever-1952-Histopics-3281-580x392.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3281\">Zur Formseingabe</a>",
+        "poi": "Histopics-3281",
+        "distanz_kfr": "130,03 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Bever-Piz-Bever-1952-Histopics-3281-580x392.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/25/bever-piz-bever-1952/",
+        "form_id": "Histopics-3281",
         "order": 999999
       }
     },
@@ -53459,6 +53639,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/05/lenk-rezliberg-1760-histopics-2794.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2026/05/05/lenk-rezliberg-1760/",
         "form_id": "Histopics-2794",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.163417682106687,
+          46.6193861974586
+        ]
+      },
+      "properties": {
+        "name": "Charmey, Église Saint-Laurent; 1943 - Histopics-3269",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a80a853f40d3-580x448.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3269\">Zur Formseingabe</a>",
+        "poi": "Histopics-3269",
+        "distanz_kfr": "132,60 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a80a853f40d3-580x448.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/15/charmey-eglise-saint-laurent-1943/",
+        "form_id": "Histopics-3269",
         "order": 999999
       }
     },
@@ -54607,6 +54807,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.713169993060642,
+          46.43829393659491
+        ]
+      },
+      "properties": {
+        "name": "Sils Maria, Piz Materdell; 1953 - Histopics-3275",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Sils-Maria-Piz-Materdell-1953-Histopics-3275-408x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3275\">Zur Formseingabe</a>",
+        "poi": "Histopics-3275",
+        "distanz_kfr": "136,86 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Sils-Maria-Piz-Materdell-1953-Histopics-3275-408x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/24/sils-maria-piz-materdell-1953/",
+        "form_id": "Histopics-3275",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.1277314,
           46.58857279
         ]
@@ -54739,6 +54959,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/03/la-punt-chamues-ch-1956-histopics-2098.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2025/03/13/la-punt-chamues-ch-1956/",
         "form_id": "Histopics-2098",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.098865525487458,
+          46.60330047634793
+        ]
+      },
+      "properties": {
+        "name": "Gruyères; 1943 - Histopics-3279",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8de4be76ab5-580x435.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3279\">Zur Formseingabe</a>",
+        "poi": "Histopics-3279",
+        "distanz_kfr": "137,56 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8de4be76ab5-580x435.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/25/gruyeres-1943/",
+        "form_id": "Histopics-3279",
         "order": 999999
       }
     },
@@ -56167,6 +56407,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.847437392756408,
+          46.84946997331737
+        ]
+      },
+      "properties": {
+        "name": "Estavayer, Grand-rue; 1941 - Histopics-3270",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Estavayer-Grand-rue-1941-Histopics-3270-580x443.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3270\">Zur Formseingabe</a>",
+        "poi": "Histopics-3270",
+        "distanz_kfr": "139,49 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Estavayer-Grand-rue-1941-Histopics-3270-580x443.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/15/estavayer-grand-rue-1941/",
+        "form_id": "Histopics-3270",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.846517401,
           46.8487863
         ]
@@ -56279,6 +56539,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/06/image-52.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/06/19/gruyeeres-1931/",
         "form_id": "Histopics-3099",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.081386155774741,
+          46.583592112512456
+        ]
+      },
+      "properties": {
+        "name": "Gruyères, Rue du Bourg; 1940 - Histopics-3278",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8dde5130255-580x448.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3278\">Zur Formseingabe</a>",
+        "poi": "Histopics-3278",
+        "distanz_kfr": "139,98 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8dde5130255-580x448.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/25/gruyeres-rue-du-bourg-1940/",
+        "form_id": "Histopics-3278",
         "order": 999999
       }
     },
@@ -56939,6 +57219,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/12/pontresina-bahnhof-1908gesamtansicht-des-bahnhofs-mit-berninabahn-und-pferdekutschen-photoglob-wehrlich-grch-nb-sign-ead-wehr-15237-b.png",
         "target_url": "https://histoswiss.ch/histopics/2024/12/09/pontresina-bahnhof-1908/",
         "form_id": "Histopics-1673",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.730016315314865,
+          46.38212605907395
+        ]
+      },
+      "properties": {
+        "name": "Maloja, Piz da la Margna; 1952 - Histopics-3276",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Maloja-Piz-da-la-Margna-1952-Histopics-3276-580x390.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3276\">Zur Formseingabe</a>",
+        "poi": "Histopics-3276",
+        "distanz_kfr": "142,47 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Maloja-Piz-da-la-Margna-1952-Histopics-3276-580x390.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/25/maloja-piz-da-la-margna-1952/",
+        "form_id": "Histopics-3276",
         "order": 999999
       }
     },
