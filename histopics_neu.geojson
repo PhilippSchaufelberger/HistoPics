@@ -9547,6 +9547,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.67315112702667,
+          47.229762159430535
+        ]
+      },
+      "properties": {
+        "name": "Wädenswil, Dorfstrasse 1; 1904 (ca.) - Histopics-0847",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-dorfstrasse-1-1904-ca.edition-photoglob-co.ch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0847\">Zur Formseingabe</a>",
+        "poi": "Histopics-0847",
+        "distanz_kfr": "18,62 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-dorfstrasse-1-1904-ca.edition-photoglob-co.ch-zhe-rara.png",
+        "target_url": "https://histoswiss.ch/histopics/2023/11/20/wadenswil-dorfstrasse-1-1904-ca/",
+        "form_id": "Histopics-0847",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.6729748,
           47.2288468
         ]
@@ -11979,26 +11999,6 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/winterthur-aussere-schaffhauserstrasse-1905ch-zhricardo.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/12/25/winterthur-aussere-schaffhauserstrasse-1905/",
         "form_id": "Histopics-1234",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6572268,
-          47.1798176
-        ]
-      },
-      "properties": {
-        "name": "Wädenswil, Dorfstrasse 1; 1904 (ca.) - Histopics-0847",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-dorfstrasse-1-1904-ca.edition-photoglob-co.ch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0847\">Zur Formseingabe</a>",
-        "poi": "Histopics-0847",
-        "distanz_kfr": "22,81 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-dorfstrasse-1-1904-ca.edition-photoglob-co.ch-zhe-rara.png",
-        "target_url": "https://histoswiss.ch/histopics/2023/11/20/wadenswil-dorfstrasse-1-1904-ca/",
-        "form_id": "Histopics-0847",
         "order": 999999
       }
     },
