@@ -12027,6 +12027,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.660463308791769,
+          47.17549817411163
+        ]
+      },
+      "properties": {
+        "name": "Hütten; 1945 - Histopics-3287",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8f4f02b90b2-580x408.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3287\">Zur Formseingabe</a>",
+        "poi": "Histopics-3287",
+        "distanz_kfr": "23,34 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8f4f02b90b2-580x408.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/26/huetten-1945/",
+        "form_id": "Histopics-3287",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.5981791,
           47.5697868
         ]
@@ -41067,6 +41087,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.308039399867365,
+          46.61349383697418
+        ]
+      },
+      "properties": {
+        "name": "Guttannen, Handeckfall; 1835 - Histopics-3284",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Guttannen-Handeckfall-1835-Histopics-3284-580x448.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3284\">Zur Formseingabe</a>",
+        "poi": "Histopics-3284",
+        "distanz_kfr": "85,22 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Guttannen-Handeckfall-1835-Histopics-3284-580x448.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/26/guttannen-handeckfall-1835/",
+        "form_id": "Histopics-3284",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.10208237051854,
           46.65552352243586
         ]
@@ -44559,6 +44599,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/bern-marktgasse-1905foto-august-ruppch-bee-picsgasse-turm.jpg",
         "target_url": "https://histoswiss.ch/histopics/2025/01/05/bern-marktgasse-1905/",
         "form_id": "Histopics-1806",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.634436047900717,
+          46.52234172205978
+        ]
+      },
+      "properties": {
+        "name": "Airolo, Stalvedro-Schlucht; 1835 - Histopics-3285",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Airolo-Stalvedro-Schlucht-1835-Histopics-3285-580x469.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3285\">Zur Formseingabe</a>",
+        "poi": "Histopics-3285",
+        "distanz_kfr": "94,06 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Airolo-Stalvedro-Schlucht-1835-Histopics-3285-580x469.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/26/airolo-stalvedro-schlucht-1835/",
+        "form_id": "Histopics-3285",
         "order": 999999
       }
     },
@@ -53487,6 +53547,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.10762720585567,
+          46.694095018737414
+        ]
+      },
+      "properties": {
+        "name": "PontVille; 1946 - Histopics-3286",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Pont-La-Ville-1946-Histopics-3286-580x429.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3286\">Zur Formseingabe</a>",
+        "poi": "Histopics-3286",
+        "distanz_kfr": "130,97 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Pont-La-Ville-1946-Histopics-3286-580x429.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/26/pontville-1946/",
+        "form_id": "Histopics-3286",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.8327838,
           47.1034892
         ]
@@ -55839,6 +55919,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/fbfcb-celerina-san-gian-1920grricardo.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/07/10/celerina-san-gian-1920/",
         "form_id": "Histopics-1544",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.582492799999999,
+          46.34278579999999
+        ]
+      },
+      "properties": {
+        "name": "Castelmur; 1835 - Histopics-3283",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Castelmur-1835-Histopics-3283-580x360.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3283\">Zur Formseingabe</a>",
+        "poi": "Histopics-3283",
+        "distanz_kfr": "139,12 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Castelmur-1835-Histopics-3283-580x360.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/26/castelmur-1835/",
+        "form_id": "Histopics-3283",
         "order": 999999
       }
     },
@@ -64439,6 +64539,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/05/image-e1747249797611.jpg",
         "target_url": "https://histoswiss.ch/histopics/2025/05/14/genf-rue-de-la-taconnerie-und-die-kathedrale-von-st-pierre-1930/",
         "form_id": "Histopics-2188",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1434199,
+          46.2025942
+        ]
+      },
+      "properties": {
+        "name": "Genève, Rue de la Corraterie; 1835 - Histopics-3282",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8ee09a01f85-580x404.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3282\">Zur Formseingabe</a>",
+        "poi": "Histopics-3282",
+        "distanz_kfr": "222,85 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a8ee09a01f85-580x404.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/26/geneve-rue-de-la-corraterie-1835/",
+        "form_id": "Histopics-3282",
         "order": 999999
       }
     },
