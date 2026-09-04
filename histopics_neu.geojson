@@ -67,18 +67,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6718189,
-          47.2296871
+          8.755706273894695,
+          47.30692792945934
         ]
       },
       "properties": {
-        "name": "Wädenswil; 1959 - Histopics-0225",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/369db-wadenswil-1959zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0225\">Zur Formseingabe</a>",
-        "poi": "Histopics-0225",
-        "distanz_kfr": "18,57 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/369db-wadenswil-1959zhricardo.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2023/07/09/wadenswil-1959/",
-        "form_id": "Histopics-0225",
+        "name": "Gossau ZH; 1760 - Histopics-3247",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3247\">Zur Formseingabe</a>",
+        "poi": "Histopics-3247",
+        "distanz_kfr": "18,36 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/07/29/gossau-zh-1760/",
+        "form_id": "Histopics-3247",
         "order": 4
       }
     },
@@ -92,13 +92,13 @@
         ]
       },
       "properties": {
-        "name": "Wädenswil; 1958 - Histopics-1477",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/07/wadenswil-1958ch-zhstadt-kircherricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1477\">Zur Formseingabe</a>",
-        "poi": "Histopics-1477",
+        "name": "Wädenswil, Katholische Kirche; 1908 (ca.) - Histopics-1053",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1053\">Zur Formseingabe</a>",
+        "poi": "Histopics-1053",
         "distanz_kfr": "18,57 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/07/wadenswil-1958ch-zhstadt-kircherricardo.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2024/07/29/waedenswil-1958/",
-        "form_id": "Histopics-1477",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png",
+        "target_url": "https://histoswiss.ch/histopics/2023/11/22/wadenswil-katholische-kirche-1908-ca/",
+        "form_id": "Histopics-1053",
         "order": 5
       }
     },
@@ -9167,6 +9167,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.584024998035297,
+          47.21315491913086
+        ]
+      },
+      "properties": {
+        "name": "Horgen, Mettel; 1947 - Histopics-3305",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Horgen-Mettel-1947-Histopics-3305-580x376.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3305\">Zur Formseingabe</a>",
+        "poi": "Histopics-3305",
+        "distanz_kfr": "17,42 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Horgen-Mettel-1947-Histopics-3305-580x376.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/horgen-mettel-1947/",
+        "form_id": "Histopics-3305",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.6903022,
           47.2530671
         ]
@@ -9287,18 +9307,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.755706273894695,
-          47.30692792945934
+          8.6718189,
+          47.2296871
         ]
       },
       "properties": {
-        "name": "Gossau ZH; 1760 - Histopics-3247",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3247\">Zur Formseingabe</a>",
-        "poi": "Histopics-3247",
-        "distanz_kfr": "18,36 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg",
-        "target_url": "https://histoswiss.ch/histopics/2026/07/29/gossau-zh-1760/",
-        "form_id": "Histopics-3247",
+        "name": "Wädenswil; 1959 - Histopics-0225",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/369db-wadenswil-1959zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0225\">Zur Formseingabe</a>",
+        "poi": "Histopics-0225",
+        "distanz_kfr": "18,57 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/369db-wadenswil-1959zhricardo.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2023/07/09/wadenswil-1959/",
+        "form_id": "Histopics-0225",
         "order": 999999
       }
     },
@@ -9452,13 +9472,13 @@
         ]
       },
       "properties": {
-        "name": "Wädenswil, Katholische Kirche; 1908 (ca.) - Histopics-1053",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1053\">Zur Formseingabe</a>",
-        "poi": "Histopics-1053",
+        "name": "Wädenswil; 1958 - Histopics-1477",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/07/wadenswil-1958ch-zhstadt-kircherricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1477\">Zur Formseingabe</a>",
+        "poi": "Histopics-1477",
         "distanz_kfr": "18,57 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png",
-        "target_url": "https://histoswiss.ch/histopics/2023/11/22/wadenswil-katholische-kirche-1908-ca/",
-        "form_id": "Histopics-1053",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/07/wadenswil-1958ch-zhstadt-kircherricardo.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2024/07/29/waedenswil-1958/",
+        "form_id": "Histopics-1477",
         "order": 999999
       }
     },
@@ -9559,6 +9579,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-dorfstrasse-1-1904-ca.edition-photoglob-co.ch-zhe-rara.png",
         "target_url": "https://histoswiss.ch/histopics/2023/11/20/wadenswil-dorfstrasse-1-1904-ca/",
         "form_id": "Histopics-0847",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773588658578996,
+          47.34340090636078
+        ]
+      },
+      "properties": {
+        "name": "Seegräben, Pfäffikersee; 1947 - Histopics-3288",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a902f38390b7-580x381.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3288\">Zur Formseingabe</a>",
+        "poi": "Histopics-3288",
+        "distanz_kfr": "18,68 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a902f38390b7-580x381.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/27/seegraeben-pfaeffikersee-1947/",
+        "form_id": "Histopics-3288",
         "order": 999999
       }
     },
@@ -9779,6 +9819,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Kyburg-1639-Histopics-3256-1536x1167.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/08/06/kyburg-1639-1630s/",
         "form_id": "Histopics-3256",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.612574456558892,
+          47.20191163744233
+        ]
+      },
+      "properties": {
+        "name": "Menzingen, Oberste Sihlgalerie; 1924 - Histopics-3303",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Oberste-Sihlgalerie-1924-Histopics-3303-580x474.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3303\">Zur Formseingabe</a>",
+        "poi": "Histopics-3303",
+        "distanz_kfr": "19,24 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Oberste-Sihlgalerie-1924-Histopics-3303-580x474.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/menzingen-oberste-sihlgalerie-1924/",
+        "form_id": "Histopics-3303",
         "order": 999999
       }
     },
@@ -10199,6 +10259,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/05/winterthur-untere-briggerstrasse-1966-histopics-2897.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/05/15/winterthur-untere-briggerstrasse-1966/",
         "form_id": "Histopics-2897",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60968730552017,
+          47.194310828815766
+        ]
+      },
+      "properties": {
+        "name": "Menzingen, Sihlmatt; 1924 - Histopics-3304",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Sihlmatt-1924-Histopics-3304-580x478.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3304\">Zur Formseingabe</a>",
+        "poi": "Histopics-3304",
+        "distanz_kfr": "19,98 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Sihlmatt-1924-Histopics-3304-580x478.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/menzingen-sihlmatt-1924/",
+        "form_id": "Histopics-3304",
         "order": 999999
       }
     },
@@ -11147,6 +11227,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.590243367998118,
+          47.17849307053459
+        ]
+      },
+      "properties": {
+        "name": "Menzingen, Dorfplatz; 1943 - Histopics-3306",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Dorfplatz-1943-Histopics-3306-580x421.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3306\">Zur Formseingabe</a>",
+        "poi": "Histopics-3306",
+        "distanz_kfr": "21,28 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Dorfplatz-1943-Histopics-3306-580x421.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/menzingen-dorfplatz-1943/",
+        "form_id": "Histopics-3306",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.588445499999999,
           47.177981
         ]
@@ -11967,6 +12067,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.616934341349355,
+          47.17187550773863
+        ]
+      },
+      "properties": {
+        "name": "Menzingen, Wilen; 1945 - Histopics-3302",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Wilen-1945-Histopics-3302-580x415.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3302\">Zur Formseingabe</a>",
+        "poi": "Histopics-3302",
+        "distanz_kfr": "22,52 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Wilen-1945-Histopics-3302-580x415.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/menzingen-wilen-1945/",
+        "form_id": "Histopics-3302",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.517334,
           47.162605
         ]
@@ -12019,6 +12139,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/baden-1920postkartenverlag-th.-zingg-badench-agstampgraf.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/12/25/baden-1920/",
         "form_id": "Histopics-1237",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.639287095588285,
+          47.171504799909336
+        ]
+      },
+      "properties": {
+        "name": "Menzingen, Finsterseebrugg; 1945 - Histopics-3307",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Finsterseebrugg-1945-Histopics-3307-580x411.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3307\">Zur Formseingabe</a>",
+        "poi": "Histopics-3307",
+        "distanz_kfr": "23,12 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Menzingen-Finsterseebrugg-1945-Histopics-3307-580x411.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/menzingen-finsterseebrugg-1945/",
+        "form_id": "Histopics-3307",
         "order": 999999
       }
     },
@@ -12379,6 +12519,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/01/zug-1980-histopics-2490.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/01/03/zug-1980/",
         "form_id": "Histopics-2490",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5477715,
+          47.1497017
+        ]
+      },
+      "properties": {
+        "name": "Lothenbach; 1936 - Histopics-3301",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Lothenbach-1936-Histopics-3301-422x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3301\">Zur Formseingabe</a>",
+        "poi": "Histopics-3301",
+        "distanz_kfr": "24,00 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Lothenbach-1936-Histopics-3301-422x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/lothenbach-1936/",
+        "form_id": "Histopics-3301",
         "order": 999999
       }
     },
@@ -15599,6 +15759,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/08/rheinau-1926-histopics-2323.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2025/08/02/rheinau-1926/",
         "form_id": "Histopics-2323",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.607017337129706,
+          47.642894956660605
+        ]
+      },
+      "properties": {
+        "name": "Rheinau; 1942 - Histopics-3291",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Rheinau-1942-Histopics-3291-580x401.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3291\">Zur Formseingabe</a>",
+        "poi": "Histopics-3291",
+        "distanz_kfr": "31,45 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/Rheinau-1942-Histopics-3291-580x401.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/27/rheinau-1942/",
+        "form_id": "Histopics-3291",
         "order": 999999
       }
     },
@@ -33027,6 +33207,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.576501947404912,
+          47.25689434521547
+        ]
+      },
+      "properties": {
+        "name": "Günsberg, Katholische Kirche (vor der Vergrösserung 1960); 1959 - Histopics-3299",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a99d997812b4-580x373.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3299\">Zur Formseingabe</a>",
+        "poi": "Histopics-3299",
+        "distanz_kfr": "72,72 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a99d997812b4-580x373.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/03/guensberg-katholische-kirche-vor-der-vergroesserung-1960-1959/",
+        "form_id": "Histopics-3299",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.576501947404912,
+          47.25689434521547
+        ]
+      },
+      "properties": {
+        "name": "Günsberg, Katholische Kirche; 1960 - Histopics-3300",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a99db392b35c-381x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3300\">Zur Formseingabe</a>",
+        "poi": "Histopics-3300",
+        "distanz_kfr": "72,72 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a99db392b35c-381x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/03/guensberg-katholische-kirche-1960/",
+        "form_id": "Histopics-3300",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5762305,
+          47.25650659999999
+        ]
+      },
+      "properties": {
+        "name": "Günsberg; 1780 - Histopics-3297",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a987d529fb06-580x373.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3297\">Zur Formseingabe</a>",
+        "poi": "Histopics-3297",
+        "distanz_kfr": "72,75 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a987d529fb06-580x373.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/02/guensberg-1780/",
+        "form_id": "Histopics-3297",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.587637729331964,
           47.21618301687574
         ]
@@ -33439,6 +33679,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/05/kriegstetten-1978-histopics-2827.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/05/08/kriegstetten-1978/",
         "form_id": "Histopics-2827",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.564638112226303,
+          47.270292680792586
+        ]
+      },
+      "properties": {
+        "name": "Balm bei Günsberg, Gschliff; 1958 - Histopics-3298",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9880d41b78f-580x376.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3298\">Zur Formseingabe</a>",
+        "poi": "Histopics-3298",
+        "distanz_kfr": "73,36 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9880d41b78f-580x376.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/02/balm-bei-guensberg-gschliff-1958/",
+        "form_id": "Histopics-3298",
         "order": 999999
       }
     },
@@ -34507,6 +34767,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.558039838470948,
+          47.27017229090929
+        ]
+      },
+      "properties": {
+        "name": "Balm bei Günsberg, Niederwiler Stierenberg (Alp); 1960 - Histopics-3295",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a9593891a342-580x378.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3295\">Zur Formseingabe</a>",
+        "poi": "Histopics-3295",
+        "distanz_kfr": "73,86 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a9593891a342-580x378.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/31/balm-bei-guensberg-niederwiler-stierenberg-alp-1960/",
+        "form_id": "Histopics-3295",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.5875052,
           47.5582509
         ]
@@ -34747,6 +35027,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.557489731317022,
+          47.257997646552774
+        ]
+      },
+      "properties": {
+        "name": "Günsberg, Burgstrasse (Wasserfall der Siggern, Balmfluh); 1949 - Histopics-3296",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9878c9b8663-377x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3296\">Zur Formseingabe</a>",
+        "poi": "Histopics-3296",
+        "distanz_kfr": "74,11 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9878c9b8663-377x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/02/guensberg-burgstrasse-wasserfall-der-siggern-balmfluh-1949/",
+        "form_id": "Histopics-3296",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.570233,
           47.52363
         ]
@@ -34859,6 +35159,46 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/06/recherswil-steinacker-17-isler-schale-2009-histopics-3009.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/06/03/recherswil-steinacker-17-isler-schale-2009/",
         "form_id": "Histopics-3009",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555145555765007,
+          47.2554862873824
+        ]
+      },
+      "properties": {
+        "name": "Balm bei Günsberg, Burgruine Balmfluh; 1936 - Histopics-3293",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a93f74f1845e-580x381.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3293\">Zur Formseingabe</a>",
+        "poi": "Histopics-3293",
+        "distanz_kfr": "74,33 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a93f74f1845e-580x381.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/30/balm-bei-guensberg-burgruine-balmfluh-1936/",
+        "form_id": "Histopics-3293",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555145555765007,
+          47.2554862873824
+        ]
+      },
+      "properties": {
+        "name": "Balm bei Günsberg, Burgruine Balmfluh; 1960 - Histopics-3294",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a958bd5dae73-580x378.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3294\">Zur Formseingabe</a>",
+        "poi": "Histopics-3294",
+        "distanz_kfr": "74,33 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a958bd5dae73-580x378.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/31/balm-bei-guensberg-burgruine-balmfluh-1960/",
+        "form_id": "Histopics-3294",
         "order": 999999
       }
     },
@@ -35407,6 +35747,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.538673468319055,
+          47.263798053370024
+        ]
+      },
+      "properties": {
+        "name": "Balm bei Günsberg, Oberbalmberg (Kurhaus); 1957 - Histopics-3290",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a903adabb36b-580x378.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3290\">Zur Formseingabe</a>",
+        "poi": "Histopics-3290",
+        "distanz_kfr": "75,41 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a903adabb36b-580x378.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/27/balm-bei-guensberg-oberbalmberg-kurhaus-1957/",
+        "form_id": "Histopics-3290",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538694925495698,
+          47.26379077241845
+        ]
+      },
+      "properties": {
+        "name": "Balm bei Günsberg, Oberbalmberg (Kurhaus); 1957 - Histopics-3292",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a93f5350ffa8-580x378.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3292\">Zur Formseingabe</a>",
+        "poi": "Histopics-3292",
+        "distanz_kfr": "75,41 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a93f5350ffa8-580x378.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/30/balm-bei-guensberg-oberbalmberg-kurhaus-1957-2/",
+        "form_id": "Histopics-3292",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.1867528,
           46.7276911
         ]
@@ -35899,6 +36279,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/image-48.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/07/14/ruttenen-roti-aussichtspunkt-1970/",
         "form_id": "Histopics-3221",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.527953821220063,
+          47.258042620260376
+        ]
+      },
+      "properties": {
+        "name": "Rüttenen, Röti (Aussichtspunkt); 1960 - Histopics-3289",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a90384b5d642-580x378.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3289\">Zur Formseingabe</a>",
+        "poi": "Histopics-3289",
+        "distanz_kfr": "76,31 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/08/6a90384b5d642-580x378.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/08/27/ruettenen-roeti-aussichtspunkt-1960/",
+        "form_id": "Histopics-3289",
         "order": 999999
       }
     },
