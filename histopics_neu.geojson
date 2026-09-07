@@ -15927,6 +15927,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.6339774723354,
+          47.079959945375855
+        ]
+      },
+      "properties": {
+        "name": "Sattel; 1910 - Histopics-3309",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Sattel-1910-Histopics-3309-580x471.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3309\">Zur Formseingabe</a>",
+        "poi": "Histopics-3309",
+        "distanz_kfr": "32,71 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Sattel-1910-Histopics-3309-580x471.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/sattel-1910/",
+        "form_id": "Histopics-3309",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.793351999999999,
           47.129988
         ]
@@ -17099,6 +17119,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/aarau-kettenbrucke-1929ch-age-picsbrucke-flluss-stadtchen.jpg",
         "target_url": "https://histoswiss.ch/histopics/2025/01/10/aarau-kettenbrucke-1929/",
         "form_id": "Histopics-1902",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.484204615559822,
+          47.03650865657934
+        ]
+      },
+      "properties": {
+        "name": "Rigi, Kaltbad; 1932 - Histopics-3316",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Rigi-Kaltbad-1932-Histopics-3316-580x424.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3316\">Zur Formseingabe</a>",
+        "poi": "Histopics-3316",
+        "distanz_kfr": "36,69 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Rigi-Kaltbad-1932-Histopics-3316-580x424.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/05/rigi-kaltbad-1932/",
+        "form_id": "Histopics-3316",
         "order": 999999
       }
     },
@@ -24979,6 +25019,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/nesslau-1925ch-sge-picsdorf-berge.jpg",
         "target_url": "https://histoswiss.ch/histopics/2025/01/10/nesslau-1925/",
         "form_id": "Histopics-1901",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.91189,
+          46.961789
+        ]
+      },
+      "properties": {
+        "name": "Muotathal, Pfannstock; 1895 - Histopics-3315",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Muotathal-Pfannstock-1895-Histopics-3315-580x434.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3315\">Zur Formseingabe</a>",
+        "poi": "Histopics-3315",
+        "distanz_kfr": "53,43 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Muotathal-Pfannstock-1895-Histopics-3315-580x434.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/05/muotathal-pfannstock-1895/",
+        "form_id": "Histopics-3315",
         "order": 999999
       }
     },
@@ -33247,6 +33307,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.576501947404912,
+          47.25689434521547
+        ]
+      },
+      "properties": {
+        "name": "Günsberg, Kirchhof; 1958 - Histopics-3308",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9b26e1c42de-580x377.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3308\">Zur Formseingabe</a>",
+        "poi": "Histopics-3308",
+        "distanz_kfr": "72,72 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9b26e1c42de-580x377.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/guensberg-kirchhof-1958/",
+        "form_id": "Histopics-3308",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.5762305,
           47.25650659999999
         ]
@@ -33259,6 +33339,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a987d529fb06-580x373.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2026/09/02/guensberg-1780/",
         "form_id": "Histopics-3297",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5762305,
+          47.25650659999999
+        ]
+      },
+      "properties": {
+        "name": "Günsberg; 1964 - Histopics-3311",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9b2fca8f911-580x377.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3311\">Zur Formseingabe</a>",
+        "poi": "Histopics-3311",
+        "distanz_kfr": "72,75 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9b2fca8f911-580x377.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/guensberg-1964/",
+        "form_id": "Histopics-3311",
         "order": 999999
       }
     },
@@ -34159,6 +34259,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/05/derendingen-1938-histopics-2843.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/05/09/derendingen-1938/",
         "form_id": "Histopics-2843",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.565355766842541,
+          47.256253047621456
+        ]
+      },
+      "properties": {
+        "name": "Günsberg, Hof Bangerten; 1959 - Histopics-3310",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9b2a93ebd07-580x379.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3310\">Zur Formseingabe</a>",
+        "poi": "Histopics-3310",
+        "distanz_kfr": "73,56 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9b2a93ebd07-580x379.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/04/guensberg-hof-bangerten-1959/",
+        "form_id": "Histopics-3310",
         "order": 999999
       }
     },
@@ -35707,6 +35827,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.566129442016639,
+          47.18069785556417
+        ]
+      },
+      "properties": {
+        "name": "Biberist, Bahnhof EBT (heute Biberist Ost); 2003 - Histopics-3314",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Biberist-Bahnhof-EBT-heute-Biberist-Ost-2003-Histopics-3314-580x388.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3314\">Zur Formseingabe</a>",
+        "poi": "Histopics-3314",
+        "distanz_kfr": "75,39 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Biberist-Bahnhof-EBT-heute-Biberist-Ost-2003-Histopics-3314-580x388.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/05/biberist-bahnhof-ebt-heute-biberist-ost-2003/",
+        "form_id": "Histopics-3314",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.566107984374822,
+          47.180712440093025
+        ]
+      },
+      "properties": {
+        "name": "Biberist, Bahnhof EBT (heute Biberist Ost); 1971 - Histopics-3312",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Biberist-Bahnhof-EBT-heute-Biberist-Ost-1971-Histopics-3312-580x402.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3312\">Zur Formseingabe</a>",
+        "poi": "Histopics-3312",
+        "distanz_kfr": "75,39 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Biberist-Bahnhof-EBT-heute-Biberist-Ost-1971-Histopics-3312-580x402.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/05/biberist-bahnhof-ebt-heute-biberist-ost-1971/",
+        "form_id": "Histopics-3312",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.538602212521933,
           47.264565046881856
         ]
@@ -36039,6 +36199,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/04/biberist-1885-histopics-2626.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/04/14/biberist-1885/",
         "form_id": "Histopics-2626",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.555973947372383,
+          47.18367820712208
+        ]
+      },
+      "properties": {
+        "name": "Biberist, Bahnhof SZB (heute Biberist RBS); 1983 - Histopics-3313",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Biberist-Bahnhof-SZB-heute-Biberist-RBS-1983-Histopics-3313-580x391.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3313\">Zur Formseingabe</a>",
+        "poi": "Histopics-3313",
+        "distanz_kfr": "76,04 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Biberist-Bahnhof-SZB-heute-Biberist-RBS-1983-Histopics-3313-580x391.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/05/biberist-bahnhof-szb-heute-biberist-rbs-1983/",
+        "form_id": "Histopics-3313",
         "order": 999999
       }
     },
@@ -37307,6 +37487,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.536113478526653,
+          47.2071169043947
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Hauptgasse (Gerechtigkeitsbrunnen); 1901 - Histopics-3319",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9d819d781db-422x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3319\">Zur Formseingabe</a>",
+        "poi": "Histopics-3319",
+        "distanz_kfr": "76,83 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9d819d781db-422x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/06/solothurn-hauptgasse-gerechtigkeitsbrunnen-1901/",
+        "form_id": "Histopics-3319",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536113478526653,
+          47.2071169043947
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Hauptgasse (Gerechtigkeitsbrunnen); 1940 - Histopics-3320",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9d83c9a629b-377x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3320\">Zur Formseingabe</a>",
+        "poi": "Histopics-3320",
+        "distanz_kfr": "76,83 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6a9d83c9a629b-377x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/06/solothurn-hauptgasse-gerechtigkeitsbrunnen-1940/",
+        "form_id": "Histopics-3320",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.5358806,
           47.2064151
         ]
@@ -37459,6 +37679,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/12/solothurn-amthausplatz-1910-histopics-2468.jpg",
         "target_url": "https://histoswiss.ch/histopics/2025/12/02/solothurn-amthausplatz-1910/",
         "form_id": "Histopics-2468",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5342670828251865,
+          47.208210036619036
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Amthausplatz; 1871 - Histopics-3318",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Amthausplatz-1871-Histopics-3318-580x460.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3318\">Zur Formseingabe</a>",
+        "poi": "Histopics-3318",
+        "distanz_kfr": "76,94 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Amthausplatz-1871-Histopics-3318-580x460.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/06/solothurn-amthausplatz-1871/",
+        "form_id": "Histopics-3318",
         "order": 999999
       }
     },
@@ -40659,6 +40899,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/flims-waldhaus-1917ch-gre-picsdorf-berge.jpg",
         "target_url": "https://histoswiss.ch/histopics/2025/01/10/flims-waldhaus-1917/",
         "form_id": "Histopics-1907",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5678925,
+          46.6189421
+        ]
+      },
+      "properties": {
+        "name": "Hospental; 1926 - Histopics-3317",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Hospental-1926-Histopics-3317-490x580.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3317\">Zur Formseingabe</a>",
+        "poi": "Histopics-3317",
+        "distanz_kfr": "83,03 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Hospental-1926-Histopics-3317-490x580.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/05/hospental-1926/",
+        "form_id": "Histopics-3317",
         "order": 999999
       }
     },
