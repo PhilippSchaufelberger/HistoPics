@@ -7,18 +7,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.541707,
-          47.3729406
+          8.54586,
+          47.3649025
         ]
       },
       "properties": {
-        "name": "Zürich, Schipfe; 1957 - Histopics-1226",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-schipfe-1957zurich-in-festbeleuchtungch-zhstampgraf.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1226\">Zur Formseingabe</a>",
-        "poi": "Histopics-1226",
+        "name": "Zürich, Utoquai; 1936 - Histopics-1202",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-utoquai-1936ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1202\">Zur Formseingabe</a>",
+        "poi": "Histopics-1202",
         "distanz_kfr": "1,36 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-schipfe-1957zurich-in-festbeleuchtungch-zhstampgraf.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2023/12/18/zurich-schipfe-1957/",
-        "form_id": "Histopics-1226",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-utoquai-1936ch-zhricardo.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2023/12/09/zurich-utoquai-1936/",
+        "form_id": "Histopics-1202",
         "order": 1
       }
     },
@@ -32,13 +32,13 @@
         ]
       },
       "properties": {
-        "name": "Greifensee; 1780 - Histopics-0937",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/f214a-greifensee-1780nic-perignonzhgaleria.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0937\">Zur Formseingabe</a>",
-        "poi": "Histopics-0937",
+        "name": "Greifensee; 1650 (ca.) - Histopics-0396",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/4c3d1-greifensee-1650-ca.kupferstich-von-atth.-merian-1593-1650zhgaleria-kopie.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0396\">Zur Formseingabe</a>",
+        "poi": "Histopics-0396",
         "distanz_kfr": "11,43 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/f214a-greifensee-1780nic-perignonzhgaleria.jpg",
-        "target_url": "https://histoswiss.ch/histopics/2023/11/21/greifensee-1780/",
-        "form_id": "Histopics-0937",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/4c3d1-greifensee-1650-ca.kupferstich-von-atth.-merian-1593-1650zhgaleria-kopie.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2023/08/01/greifensee-1650-ca/",
+        "form_id": "Histopics-0396",
         "order": 2
       }
     },
@@ -47,18 +47,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6946733,
-          47.2574625
+          8.541029,
+          47.5173418
         ]
       },
       "properties": {
-        "name": "Männedorf; 1950 - Histopics-0283",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/453b7-mannedorf-1950zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0283\">Zur Formseingabe</a>",
-        "poi": "Histopics-0283",
-        "distanz_kfr": "17,37 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/453b7-mannedorf-1950zhricardo.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2023/07/21/mannedorf-1950/",
-        "form_id": "Histopics-0283",
+        "name": "Bülach, Rathaus; 1963 - Histopics-0350",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/bulach-rathaus-1963ch-zhpostcard47.517291078688196-8.541007542345994.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0350\">Zur Formseingabe</a>",
+        "poi": "Histopics-0350",
+        "distanz_kfr": "16,95 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/bulach-rathaus-1963ch-zhpostcard47.517291078688196-8.541007542345994.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2025/01/30/bulach-rathaus-1963/",
+        "form_id": "Histopics-0350",
         "order": 3
       }
     },
@@ -67,18 +67,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.755706273894695,
-          47.30692792945934
+          8.3373943,
+          47.2749976
         ]
       },
       "properties": {
-        "name": "Gossau ZH; 1760 - Histopics-3247",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3247\">Zur Formseingabe</a>",
-        "poi": "Histopics-3247",
-        "distanz_kfr": "18,36 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg",
-        "target_url": "https://histoswiss.ch/histopics/2026/07/29/gossau-zh-1760/",
-        "form_id": "Histopics-3247",
+        "name": "Muri, Kloster; 1765 - Histopics-2231",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/06/muri-kloster-1765-histopics-2231.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2231\">Zur Formseingabe</a>",
+        "poi": "Histopics-2231",
+        "distanz_kfr": "17,50 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/06/muri-kloster-1765-histopics-2231.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2025/06/20/muri-kloster-1765/",
+        "form_id": "Histopics-2231",
         "order": 4
       }
     },
@@ -92,13 +92,13 @@
         ]
       },
       "properties": {
-        "name": "Wädenswil, Katholische Kirche; 1908 (ca.) - Histopics-1053",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1053\">Zur Formseingabe</a>",
-        "poi": "Histopics-1053",
+        "name": "Wädenswil; 1909 - Histopics-0807",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/12/wadenswil-1909vom-burgli-ausch-zhpostcard-1.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0807\">Zur Formseingabe</a>",
+        "poi": "Histopics-0807",
         "distanz_kfr": "18,57 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png",
-        "target_url": "https://histoswiss.ch/histopics/2023/11/22/wadenswil-katholische-kirche-1908-ca/",
-        "form_id": "Histopics-1053",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/12/wadenswil-1909vom-burgli-ausch-zhpostcard-1.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2024/12/10/waedenswil-1909-2/",
+        "form_id": "Histopics-0807",
         "order": 5
       }
     },
@@ -152,13 +152,13 @@
         ]
       },
       "properties": {
-        "name": "Zürich, ETH; 1860 - Histopics-0501",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/10/zurich-eth-1860rudolf-ringger-in-ludwig-rohbock-album-vom-zurich-see-verlag-chr.-krusi-baselzhe-r-ara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0501\">Zur Formseingabe</a>",
-        "poi": "Histopics-0501",
+        "name": "Zürich, Kantonsspital; 1840 - Histopics-0378",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/bb2bf-zurich-kantonsspital-1840zhgaleria-kopie.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0378\">Zur Formseingabe</a>",
+        "poi": "Histopics-0378",
         "distanz_kfr": "1,68 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/10/zurich-eth-1860rudolf-ringger-in-ludwig-rohbock-album-vom-zurich-see-verlag-chr.-krusi-baselzhe-r-ara.png",
-        "target_url": "https://histoswiss.ch/histopics/2023/10/09/zurich-eth-1860/",
-        "form_id": "Histopics-0501",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/bb2bf-zurich-kantonsspital-1840zhgaleria-kopie.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2023/08/01/zurich-kantonsspital-1840/",
+        "form_id": "Histopics-0378",
         "order": 8
       }
     },
@@ -1319,6 +1319,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/image-35.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/07/12/zurich-baur-au-lac-1860/",
         "form_id": "Histopics-3205",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538932693784133,
+          47.37076957117182
+        ]
+      },
+      "properties": {
+        "name": "Zürich, Bahnhofstrasse 31; 1928 - Histopics-3326",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa05fc532088-580x492.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3326\">Zur Formseingabe</a>",
+        "poi": "Histopics-3326",
+        "distanz_kfr": "1,05 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa05fc532088-580x492.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/08/zuerich-bahnhofstrasse-31-1928/",
+        "form_id": "Histopics-3326",
         "order": 999999
       }
     },
@@ -2907,18 +2927,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.54586,
-          47.3649025
+          8.541707,
+          47.3729406
         ]
       },
       "properties": {
-        "name": "Zürich, Utoquai; 1936 - Histopics-1202",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-utoquai-1936ch-zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1202\">Zur Formseingabe</a>",
-        "poi": "Histopics-1202",
+        "name": "Zürich, Schipfe; 1957 - Histopics-1226",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-schipfe-1957zurich-in-festbeleuchtungch-zhstampgraf.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1226\">Zur Formseingabe</a>",
+        "poi": "Histopics-1226",
         "distanz_kfr": "1,36 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-utoquai-1936ch-zhricardo.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2023/12/09/zurich-utoquai-1936/",
-        "form_id": "Histopics-1202",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/12/zurich-schipfe-1957zurich-in-festbeleuchtungch-zhstampgraf.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2023/12/18/zurich-schipfe-1957/",
+        "form_id": "Histopics-1226",
         "order": 999999
       }
     },
@@ -3732,13 +3752,13 @@
         ]
       },
       "properties": {
-        "name": "Zürich, Kantonsspital; 1840 - Histopics-0378",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/bb2bf-zurich-kantonsspital-1840zhgaleria-kopie.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0378\">Zur Formseingabe</a>",
-        "poi": "Histopics-0378",
+        "name": "Zürich, ETH; 1860 - Histopics-0501",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/10/zurich-eth-1860rudolf-ringger-in-ludwig-rohbock-album-vom-zurich-see-verlag-chr.-krusi-baselzhe-r-ara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0501\">Zur Formseingabe</a>",
+        "poi": "Histopics-0501",
         "distanz_kfr": "1,68 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/bb2bf-zurich-kantonsspital-1840zhgaleria-kopie.jpg",
-        "target_url": "https://histoswiss.ch/histopics/2023/08/01/zurich-kantonsspital-1840/",
-        "form_id": "Histopics-0378",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/10/zurich-eth-1860rudolf-ringger-in-ludwig-rohbock-album-vom-zurich-see-verlag-chr.-krusi-baselzhe-r-ara.png",
+        "target_url": "https://histoswiss.ch/histopics/2023/10/09/zurich-eth-1860/",
+        "form_id": "Histopics-0501",
         "order": 999999
       }
     },
@@ -5687,6 +5707,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.516328175135046,
+          47.332999661381876
+        ]
+      },
+      "properties": {
+        "name": "Leimbach, Reformierte Kirche; 1782 - Histopics-3334",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Leimbach-Reformierte-Kirche-1782-Histopics-3334-580x390.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3334\">Zur Formseingabe</a>",
+        "poi": "Histopics-3334",
+        "distanz_kfr": "3,68 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Leimbach-Reformierte-Kirche-1782-Histopics-3334-580x390.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/10/leimbach-reformierte-kirche-1782/",
+        "form_id": "Histopics-3334",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.522090714846268,
           47.3308068039517
         ]
@@ -7392,13 +7432,13 @@
         ]
       },
       "properties": {
-        "name": "Greifensee; 1650 (ca.) - Histopics-0396",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/4c3d1-greifensee-1650-ca.kupferstich-von-atth.-merian-1593-1650zhgaleria-kopie.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0396\">Zur Formseingabe</a>",
-        "poi": "Histopics-0396",
+        "name": "Greifensee; 1853 - Histopics-0935",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/feddd-greifensee-1853aquantinazh.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0935\">Zur Formseingabe</a>",
+        "poi": "Histopics-0935",
         "distanz_kfr": "11,43 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/4c3d1-greifensee-1650-ca.kupferstich-von-atth.-merian-1593-1650zhgaleria-kopie.jpg",
-        "target_url": "https://histoswiss.ch/histopics/2023/08/01/greifensee-1650-ca/",
-        "form_id": "Histopics-0396",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/feddd-greifensee-1853aquantinazh.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2023/11/21/greifensee-1853/",
+        "form_id": "Histopics-0935",
         "order": 999999
       }
     },
@@ -7412,13 +7452,13 @@
         ]
       },
       "properties": {
-        "name": "Greifensee; 1853 - Histopics-0935",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/feddd-greifensee-1853aquantinazh.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0935\">Zur Formseingabe</a>",
-        "poi": "Histopics-0935",
+        "name": "Greifensee; 1780 - Histopics-0937",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/f214a-greifensee-1780nic-perignonzhgaleria.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0937\">Zur Formseingabe</a>",
+        "poi": "Histopics-0937",
         "distanz_kfr": "11,43 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/feddd-greifensee-1853aquantinazh.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2023/11/21/greifensee-1853/",
-        "form_id": "Histopics-0935",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/08/f214a-greifensee-1780nic-perignonzhgaleria.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2023/11/21/greifensee-1780/",
+        "form_id": "Histopics-0937",
         "order": 999999
       }
     },
@@ -8827,6 +8867,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.630774299999999,
+          47.4963168
+        ]
+      },
+      "properties": {
+        "name": "Oberembrach, Rötelstein; 1932 - Histopics-3340",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa54f4a663d9-580x486.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3340\">Zur Formseingabe</a>",
+        "poi": "Histopics-3340",
+        "distanz_kfr": "16,52 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa54f4a663d9-580x486.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/12/oberembrach-roetelstein-1932/",
+        "form_id": "Histopics-3340",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.5419603,
           47.5160671
         ]
@@ -8947,26 +9007,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.541029,
-          47.5173418
-        ]
-      },
-      "properties": {
-        "name": "Bülach, Rathaus; 1963 - Histopics-0350",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/bulach-rathaus-1963ch-zhpostcard47.517291078688196-8.541007542345994.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0350\">Zur Formseingabe</a>",
-        "poi": "Histopics-0350",
-        "distanz_kfr": "16,95 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/bulach-rathaus-1963ch-zhpostcard47.517291078688196-8.541007542345994.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2025/01/30/bulach-rathaus-1963/",
-        "form_id": "Histopics-0350",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.6593092,
           47.2377687
         ]
@@ -8999,6 +9039,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/0cd83-mannedorf-1908zh.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/07/07/mannedorf-1908/",
         "form_id": "Histopics-0065",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6946733,
+          47.2574625
+        ]
+      },
+      "properties": {
+        "name": "Männedorf; 1950 - Histopics-0283",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/453b7-mannedorf-1950zhricardo.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0283\">Zur Formseingabe</a>",
+        "poi": "Histopics-0283",
+        "distanz_kfr": "17,37 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/07/453b7-mannedorf-1950zhricardo.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2023/07/21/mannedorf-1950/",
+        "form_id": "Histopics-0283",
         "order": 999999
       }
     },
@@ -9247,26 +9307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.3373943,
-          47.2749976
-        ]
-      },
-      "properties": {
-        "name": "Muri, Kloster; 1765 - Histopics-2231",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/06/muri-kloster-1765-histopics-2231.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-2231\">Zur Formseingabe</a>",
-        "poi": "Histopics-2231",
-        "distanz_kfr": "17,50 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/06/muri-kloster-1765-histopics-2231.jpg",
-        "target_url": "https://histoswiss.ch/histopics/2025/06/20/muri-kloster-1765/",
-        "form_id": "Histopics-2231",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.69234099,
           47.253487
         ]
@@ -9299,6 +9339,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/hirzel-1947ch-zhricardo.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2023/11/19/hirzel-1947/",
         "form_id": "Histopics-0709",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.755706273894695,
+          47.30692792945934
+        ]
+      },
+      "properties": {
+        "name": "Gossau ZH; 1760 - Histopics-3247",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3247\">Zur Formseingabe</a>",
+        "poi": "Histopics-3247",
+        "distanz_kfr": "18,36 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/07/Gossau-ZH-1760-Histopics-3247.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/07/29/gossau-zh-1760/",
+        "form_id": "Histopics-3247",
         "order": 999999
       }
     },
@@ -9412,26 +9472,6 @@
         ]
       },
       "properties": {
-        "name": "Wädenswil; 1909 - Histopics-0807",
-        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/12/wadenswil-1909vom-burgli-ausch-zhpostcard-1.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0807\">Zur Formseingabe</a>",
-        "poi": "Histopics-0807",
-        "distanz_kfr": "18,57 km",
-        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/12/wadenswil-1909vom-burgli-ausch-zhpostcard-1.jpeg",
-        "target_url": "https://histoswiss.ch/histopics/2024/12/10/waedenswil-1909-2/",
-        "form_id": "Histopics-0807",
-        "order": 999999
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6718189,
-          47.2296871
-        ]
-      },
-      "properties": {
         "name": "Wädenswil; 1908 (ca.) - Histopics-0849",
         "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-1908-ca.edition-photoglobch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-0849\">Zur Formseingabe</a>",
         "poi": "Histopics-0849",
@@ -9459,6 +9499,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-1826kunstverlag-th.-zingg-ca.-1900-ankunft-des-sangervereins-in-wadenswil-am-11.-septembe-r-1826ch-zhe-rara.png",
         "target_url": "https://histoswiss.ch/histopics/2023/11/20/wadenswil-1826/",
         "form_id": "Histopics-0859",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6718189,
+          47.2296871
+        ]
+      },
+      "properties": {
+        "name": "Wädenswil, Katholische Kirche; 1908 (ca.) - Histopics-1053",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-1053\">Zur Formseingabe</a>",
+        "poi": "Histopics-1053",
+        "distanz_kfr": "18,57 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2023/11/wadenswil-katholische-kirche-1908-ca.edition-photoglobch-zhe-rara.png",
+        "target_url": "https://histoswiss.ch/histopics/2023/11/22/wadenswil-katholische-kirche-1908-ca/",
+        "form_id": "Histopics-1053",
         "order": 999999
       }
     },
@@ -10767,6 +10827,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.641054,
+          47.194002
+        ]
+      },
+      "properties": {
+        "name": "Wädenswil, Schönenberg; 1947 - Histopics-3339",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa54e5111fb2-580x403.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3339\">Zur Formseingabe</a>",
+        "poi": "Histopics-3339",
+        "distanz_kfr": "20,86 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa54e5111fb2-580x403.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/12/waedenswil-schoenenberg-1947/",
+        "form_id": "Histopics-3339",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.722600055040406,
           47.498761816098316
         ]
@@ -11819,6 +11899,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2025/01/hombrechtikon-1950-ca.ch-zhpostcarddorf-kirche.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2025/01/31/hombrechtikon-1950-ca/",
         "form_id": "Histopics-2125",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.689651127515598,
+          47.198367949267656
+        ]
+      },
+      "properties": {
+        "name": "Richterswil, Sternenschanze; 1945 - Histopics-3338",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Richterswil-Sternenschanze-1945-Histopics-3338-580x417.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3338\">Zur Formseingabe</a>",
+        "poi": "Histopics-3338",
+        "distanz_kfr": "22,20 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Richterswil-Sternenschanze-1945-Histopics-3338-580x417.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/12/richterswil-sternenschanze-1945/",
+        "form_id": "Histopics-3338",
         "order": 999999
       }
     },
@@ -14927,6 +15027,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.9155758,
+          47.3138734
+        ]
+      },
+      "properties": {
+        "name": "Gibswil, Bahnhof; 1939 - Histopics-3337",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Gibswil-Bahnhof-1939-Histopics-3337-580x392.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3337\">Zur Formseingabe</a>",
+        "poi": "Histopics-3337",
+        "distanz_kfr": "29,77 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Gibswil-Bahnhof-1939-Histopics-3337-580x392.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/11/gibswil-bahnhof-1939/",
+        "form_id": "Histopics-3337",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.9202247,
           47.3311758
         ]
@@ -15787,6 +15907,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.757591249691158,
+          47.12663305155398
+        ]
+      },
+      "properties": {
+        "name": "Einsiedeln, St. Benediktweg; 1928 - Histopics-3325",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Einsiedeln-St.-Benediktweg-1928-Histopics-3325-580x478.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3325\">Zur Formseingabe</a>",
+        "poi": "Histopics-3325",
+        "distanz_kfr": "31,69 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Einsiedeln-St.-Benediktweg-1928-Histopics-3325-580x478.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/08/einsiedeln-st-benediktweg-1928/",
+        "form_id": "Histopics-3325",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.7800625,
           47.1369626
         ]
@@ -15939,6 +16079,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Sattel-1910-Histopics-3309-580x471.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/09/04/sattel-1910/",
         "form_id": "Histopics-3309",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79318030781878,
+          47.129957839657735
+        ]
+      },
+      "properties": {
+        "name": "Einsiedeln, Willerzell; 1936 - Histopics-3333",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Einsiedeln-Willerzell-1936-Histopics-3333-580x428.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3333\">Zur Formseingabe</a>",
+        "poi": "Histopics-3333",
+        "distanz_kfr": "32,94 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Einsiedeln-Willerzell-1936-Histopics-3333-580x428.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/10/einsiedeln-willerzell-1936/",
+        "form_id": "Histopics-3333",
         "order": 999999
       }
     },
@@ -22087,6 +22247,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.585604876599989,
+          46.949775605420854
+        ]
+      },
+      "properties": {
+        "name": "Riemenstalden; 1923 - Histopics-3332",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Riemenstalden-1923-Histopics-3332-483x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3332\">Zur Formseingabe</a>",
+        "poi": "Histopics-3332",
+        "distanz_kfr": "46,39 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Riemenstalden-1923-Histopics-3332-483x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/10/riemenstalden-1923/",
+        "form_id": "Histopics-3332",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.911311472627561,
           47.34821595802141
         ]
@@ -25599,6 +25779,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/05/egerkingen-bahnhof-2000-histopics-2995.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/05/30/egerkingen-bahnhof-2000/",
         "form_id": "Histopics-2995",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.793907296275426,
+          47.36741300429358
+        ]
+      },
+      "properties": {
+        "name": "Langenbruck, Schattenberg; 1945 - Histopics-3323",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Langenbruck-Schattenberg-1945-Histopics-3323-580x380.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3323\">Zur Formseingabe</a>",
+        "poi": "Histopics-3323",
+        "distanz_kfr": "55,27 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Langenbruck-Schattenberg-1945-Histopics-3323-580x380.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/08/langenbruck-schattenberg-1945/",
+        "form_id": "Histopics-3323",
         "order": 999999
       }
     },
@@ -30179,6 +30379,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/06/appenzell-1804-histopics-3031-scaled.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2026/06/06/appenzell-1804/",
         "form_id": "Histopics-3031",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.407719353847641,
+          47.33151285659496
+        ]
+      },
+      "properties": {
+        "name": "Appenzell, Landsgemeindeplatz; 1929 - Histopics-3330",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Appenzell-Landsgemeindeplatz-1929-Histopics-3330-580x295.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3330\">Zur Formseingabe</a>",
+        "poi": "Histopics-3330",
+        "distanz_kfr": "66,40 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Appenzell-Landsgemeindeplatz-1929-Histopics-3330-580x295.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/09/appenzell-landsgemeindeplatz-1929/",
+        "form_id": "Histopics-3330",
         "order": 999999
       }
     },
@@ -36587,6 +36807,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.542064238645997,
+          47.206839768164166
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Rötibrücke; 1940 - Histopics-3341",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa5c4d1b5d1d-580x387.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3341\">Zur Formseingabe</a>",
+        "poi": "Histopics-3341",
+        "distanz_kfr": "76,40 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa5c4d1b5d1d-580x387.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/12/solothurn-roetibruecke-1940/",
+        "form_id": "Histopics-3341",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.542064238645997,
+          47.206839768164166
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Rötibrücke; 1940 - Histopics-3342",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa5c6b4b17ad-580x387.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3342\">Zur Formseingabe</a>",
+        "poi": "Histopics-3342",
+        "distanz_kfr": "76,40 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa5c6b4b17ad-580x387.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/12/solothurn-roetibruecke-1940-2/",
+        "form_id": "Histopics-3342",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.424599127470088,
           47.0474221030033
         ]
@@ -36899,6 +37159,46 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/07/image-4.jpg",
         "target_url": "https://histoswiss.ch/histopics/2024/07/21/solothurn-verenaklause-1865/",
         "form_id": "Histopics-1542",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538961400139275,
+          47.20857105921843
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Zeughausplatz (Mauritiusbrunnen); 1950 - Histopics-3321",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Zeughausplatz-Mauritiusbrunnen-1950-Histopics-3321-379x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3321\">Zur Formseingabe</a>",
+        "poi": "Histopics-3321",
+        "distanz_kfr": "76,58 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Zeughausplatz-Mauritiusbrunnen-1950-Histopics-3321-379x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/07/solothurn-zeughausplatz-mauritiusbrunnen-1950/",
+        "form_id": "Histopics-3321",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.538961400139275,
+          47.20857105921843
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Zeughausplatz (Mauritiusbrunnen); 1901 - Histopics-3322",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Zeughausplatz-Mauritiusbrunnen-1901-Histopics-3322-424x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3322\">Zur Formseingabe</a>",
+        "poi": "Histopics-3322",
+        "distanz_kfr": "76,58 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Zeughausplatz-Mauritiusbrunnen-1901-Histopics-3322-424x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/07/solothurn-zeughausplatz-mauritiusbrunnen-1901/",
+        "form_id": "Histopics-3322",
         "order": 999999
       }
     },
@@ -37307,6 +37607,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.537063658130401,
+          47.207766534320626
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Marktplatz (St. Ursen-Brunnen, auch Fischbrunnen); 1901 - Histopics-3335",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa44912b069a-424x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3335\">Zur Formseingabe</a>",
+        "poi": "Histopics-3335",
+        "distanz_kfr": "76,75 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa44912b069a-424x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/11/solothurn-marktplatz-st-ursen-brunnen-auch-fischbrunnen-1901/",
+        "form_id": "Histopics-3335",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.537063658130401,
+          47.207766534320626
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Marktplatz (St. Ursen-Brunnen, auch Fischbrunnen); 1960 - Histopics-3336",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa44aea5748c-377x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3336\">Zur Formseingabe</a>",
+        "poi": "Histopics-3336",
+        "distanz_kfr": "76,75 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa44aea5748c-377x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/11/solothurn-marktplatz-st-ursen-brunnen-auch-fischbrunnen-1960/",
+        "form_id": "Histopics-3336",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.5369329,
           47.2075843
         ]
@@ -37547,6 +37887,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.535166019631081,
+          47.20706862655795
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Friedhofplatz (Simsonbrunnen); 1950 - Histopics-3324",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Friedhofplatz-Simsonbrunnen-1950-Histopics-3324-377x580.jpg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3324\">Zur Formseingabe</a>",
+        "poi": "Histopics-3324",
+        "distanz_kfr": "76,90 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Solothurn-Friedhofplatz-Simsonbrunnen-1950-Histopics-3324-377x580.jpg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/08/solothurn-friedhofplatz-simsonbrunnen-1950/",
+        "form_id": "Histopics-3324",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53543424171286,
+          47.2064887262376
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Ecke Stalden-Veilchengasse (St. Georgs-Brunnen); 1972 - Histopics-3328",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa118016a96d-377x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3328\">Zur Formseingabe</a>",
+        "poi": "Histopics-3328",
+        "distanz_kfr": "76,90 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa118016a96d-377x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/09/solothurn-ecke-stalden-veilchengasse-st-georgs-brunnen-1972/",
+        "form_id": "Histopics-3328",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53543424171286,
+          47.2064887262376
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Ecke Stalden-Veilchengasse (St. Georgs-Brunnen); 1901 - Histopics-3329",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa11a703e758-422x580.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3329\">Zur Formseingabe</a>",
+        "poi": "Histopics-3329",
+        "distanz_kfr": "76,90 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa11a703e758-422x580.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/09/solothurn-ecke-stalden-veilchengasse-st-georgs-brunnen-1901/",
+        "form_id": "Histopics-3329",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.534679199,
           47.2081455
         ]
@@ -37719,6 +38119,46 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/03/solothurn-kapuzinerkloster-1659-histopics-2549.jpg",
         "target_url": "https://histoswiss.ch/histopics/2026/03/12/solothurn-kapuzinerkloster-1659/",
         "form_id": "Histopics-2549",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.534506214049811,
+          47.20494618446589
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Eisenbahnbrücke; 1926 - Histopics-3343",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa671ba53351-580x423.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3343\">Zur Formseingabe</a>",
+        "poi": "Histopics-3343",
+        "distanz_kfr": "77,01 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa671ba53351-580x423.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/13/solothurn-eisenbahnbruecke-1926/",
+        "form_id": "Histopics-3343",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.534506214049811,
+          47.20494618446589
+        ]
+      },
+      "properties": {
+        "name": "Solothurn, Eisenbahnbrücke; 1926 - Histopics-3344",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa672dbdee49-580x429.jpeg\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3344\">Zur Formseingabe</a>",
+        "poi": "Histopics-3344",
+        "distanz_kfr": "77,01 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/6aa672dbdee49-580x429.jpeg",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/13/solothurn-eisenbahnbruecke-1926-2/",
+        "form_id": "Histopics-3344",
         "order": 999999
       }
     },
@@ -58607,6 +59047,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          10.25462666428782,
+          46.77799992686734
+        ]
+      },
+      "properties": {
+        "name": "Tarasp, Schloss; 1929 - Histopics-3331",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Tarasp-Schloss-1929-Histopics-3331-283x580.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3331\">Zur Formseingabe</a>",
+        "poi": "Histopics-3331",
+        "distanz_kfr": "146,17 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Tarasp-Schloss-1929-Histopics-3331-283x580.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/09/tarasp-schloss-1929/",
+        "form_id": "Histopics-3331",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.2584949,
           46.7758856
         ]
@@ -58899,6 +59359,26 @@
         "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2024/09/les-sciernes-1952ch-frtalpostcard.jpeg",
         "target_url": "https://histoswiss.ch/histopics/2024/09/18/les-sciernes-1952/",
         "form_id": "Histopics-1620",
+        "order": 999999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.879127749795359,
+          46.39576803688171
+        ]
+      },
+      "properties": {
+        "name": "Samedan, Tschiervagletscher; 1928 - Histopics-3327",
+        "description": "<img src=\"https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Samedan-Tschiervagletscher-1928-Histopics-3327-407x580.png\" width=\"250\" /><br><a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=oee1AwnLF0SeGsaGtECyxSYqCNTH3KVCvNcgoFLg2XZUMTZFRlJWRkVXQVZUOE9EVUs4MUc1NFZWUS4u&rf7c4e2f2d7d7438c8efbe1b915a05a0c=Histopics-3327\">Zur Formseingabe</a>",
+        "poi": "Histopics-3327",
+        "distanz_kfr": "148,88 km",
+        "image_url": "https://histoswiss.ch/histopics/wp-content/uploads/sites/2/2026/09/Samedan-Tschiervagletscher-1928-Histopics-3327-407x580.png",
+        "target_url": "https://histoswiss.ch/histopics/2026/09/08/samedan-tschiervagletscher-1928/",
+        "form_id": "Histopics-3327",
         "order": 999999
       }
     },
